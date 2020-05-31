@@ -1,6 +1,4 @@
-This repository releases the experimental dataset of our study on Web APIs: Usages, Issues, and Expectations.
-
-The dataset includes:
+This repository releases the experimental dataset of our study on Web APIs: Usages, Issues, and Expectations, including:
 
 1) 20,175 Web APIs crawled from ProgrammableWeb(https://www.programmableweb.com/) on Nov 12, 2019
 	- pweb_apis(part1).json
