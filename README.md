@@ -1,14 +1,37 @@
-# WebAPIStudy
-A Large-Scale Empirical Study of Web APIs: Usages, Issues, and Expectations
+This repository releases the experimental dataset of our study on Web APIs: Usages, Issues, and Expectations.
 
-In this repository, we will release the experimental dataset of our Web API study project, including:
+The dataset includes:
 
-1) Web APIs and mashups crawled from ProgrammableWeb on Nov 12, 2019
+1) 20,175 Web APIs crawled from ProgrammableWeb(https://www.programmableweb.com/) on Nov 12, 2019
+	- pweb_apis(part1).json
+	- pweb_apis(part2).json
 
-2) Web APIs crawled from RapidAPI on Nov 12, 2019
+2) 6,146 mashups crawled from ProgrammableWeb on Nov 12, 2019
+	- pweb_mashups.json
 
-3) Web API related SO questions retrieved for the crawled Web APIs based on the API names and WAKP (i.e., a set of predefined Web API related keywords and phrases).
+3) 2,944 Web APIs crawled from RapidAPI(https://rapidapi.com/) on Nov 12, 2019
+	- rapidapi_apis.json
+	
+4) Unique API names in ProgrammableWeb(PW), RapidAPI, and both registries
+	- unique_apinames(PW).txt
+	- unique_apinames(RapidAPI).txt
+	- unique_apinames.txt
 
-4) The Web API issue types manually identified from 1,886 sampled SO questions
+4) Web API related Stack Overflow (SO) questions retrieved using API names and WAKP (a set of defined Web API related keywords and phrases)
+	- api_questions.json
 
-5) The user survey designed for investigating the important features of Web APIs, validated the identified Web API issue types, and inquiring users' expectations on Web APIs.
+5) Manually identified Web API issue types from 1,886 sampled Web API related SO questions
+	- question_issuetypes.xlsx
+   Please note that a number of SO questions about api development, api-based function implementation are not considered.
+   
+6) Two versions of the user survey
+	- Web_API_survey (Chinese).pdf
+	- Web_API_survey (English).pdf
+
+7) Survey responses
+	- survey_responses.json
+
+8) Manually identified Web API features, Web API issue types, and expectation categories from survey responses
+	- respondent_otherfeature.xlsx
+	- respondent_otherissue.xlsx
+	- respondent_expectation.xlsx
