@@ -15,7 +15,7 @@ This repository releases the experimental dataset of our study on Web APIs: Usag
 	- unique_apinames(RapidAPI).txt
 	- unique_apinames.txt
 
-4) Web API related Stack Overflow (SO) questions retrieved using API names and WAKP (a set of defined Web API related keywords and phrases)
+4) Web API related Stack Overflow (SO) questions
 	- api_questions.json
 
 5) Manually identified Web API issue types from 1,886 sampled Web API related SO questions
