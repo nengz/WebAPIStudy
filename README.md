@@ -6,13 +6,8 @@ This repository releases the experimental dataset of our study on Web APIs: Usag
 
 2) 6,146 mashups crawled from ProgrammableWeb on Nov 12, 2019
 	- pweb_mashups.json
-
-3) 2,944 Web APIs crawled from RapidAPI(https://rapidapi.com/) on Nov 12, 2019
-	- rapidapi_apis.json
 	
-4) Unique API names in ProgrammableWeb(PW), RapidAPI, and both registries
-	- unique_apinames(PW).txt
-	- unique_apinames(RapidAPI).txt
+3) Unique API names from ProgrammableWeb(PW) and M
 	- unique_apinames.txt
 
 4) Web API related Stack Overflow (SO) questions
