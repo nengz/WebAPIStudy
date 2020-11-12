@@ -11,8 +11,8 @@ This repository releases the experimental dataset of our study on Web APIs: Usag
 	- unique_apinames(PW).txt
 
 4) Manually identified Web API issue types from 1,885 sampled Web API related SO questions
-	- question_issuetypes.xlsx
-   Please note that a number of SO questions about api development and api-based function implementation are not considered.
+	- question_issuetypes.xlsx 
+	# Please note that a number of SO questions about api development and api-based function implementation are not considered.
    
 5) Two versions of the user survey
 	- Web_API_survey (Chinese).pdf
