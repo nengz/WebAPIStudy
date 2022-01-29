@@ -1,0 +1,41 @@
+{
+    "Features": {
+        "It follows standard request/response formats (e.g., XML and JSON)": "Standard request/response formats (e.g., JSON)",
+        "It has a Web API forum alive": "Accessible API forum",
+        "It has a compatible license with your existing projects": "Compatible license with the existing projects",
+        "It has a free trial": "Free trial",
+        "It has a functional summary similar to your requirements": "Similar functional description to the requirement",
+        "It has a relatively high popularity (e.g., #followers, #developers, rating score, etc.)": "Relatively high popularity (e.g., the number of followers and popularity score)",
+        "It has a support (e.g., a Web API client wrapper or sample code) for your familiar programming languages": "Support (e.g., API client wrappers or sample codes) for familiar programming languages",
+        "It has a well-known Web API provider (e.g., Google)": "Well-known API provider (e.g., Google)",
+        "It has a well-organized documentation": "Well-organized documentation",
+        "It has easy-to-test endpoints": "Easy-to-test endpoints",
+        "It has no charge for use": "No charge for use"
+    },
+    "Issue Types": {
+        "Authorization - Error": "Authorization - Error",
+        "Authorization - Expiration": "Authorization - Expiration",
+        "Documentation - Difficult to read/understand": "Documentation - Difficult to read/understand",
+        "Documentation - Incomplete": "Documentation - Incomplete",
+        "Documentation - Incorrect": "Documentation - Incorrect",
+        "Documentation - Missing": "Documentation - Missing",
+        "Documentation - Out-of-date": "Documentation - Out-of-date",
+        "Function - Bug": "Function - Implementation problem",
+        "Function - Change & deprecation": "Function - Change/Deprecation",
+        "Function - Difficulties in processing result": "Function - Difficult to process result",
+        "Function - Inconsistent results": "Function - Inconsistent result",
+        "Function - Instability": "Function - Instability",
+        "Function - Lack of programming language support": "Function - Lack of programming language support",
+        "Function - Limitation": "Function - Limitation",
+        "Function - Request failures with unknown reasons": "Function - Request failure with unknown reasons",
+        "Function - Unexpected result": "Function - Unexpected result",
+        "Function - Unsatisfactory performance": "Function - Unsatisfactory performance",
+        "Function - Unsupported function": "Function - Unsupported function",
+        "Others - Unsuitable charge": "Others - Unsuitable charge",
+        "Others - Web API searching": "Others - Web API searching",
+        "Seeking for support - Authorization": "Authorization - Enquiring about acquisition",
+        "Seeking for support - Checking for Web API usage": "Others - Checking for web API usage",
+        "Seeking for support - Enquiring about a particular function": "Function - Enquiring about a particular function",
+        "Seeking for support - Implementation": "Others - Enquiring about web API implementation"
+    }
+}
