@@ -1,0 +1,1310 @@
+1 ===>  1Forge Finance APIs  ===> 1forge finance
+2 ===>  ACE Provisioning ManagementPartner  ===> ace provisioning managementpartner
+3 ===>  ADHybridHealthService  ===> adhybridhealthservice
+4 ===>  AGCO API  ===> agco
+5 ===>  AI Platform Training & Prediction API  ===> ai platform training & prediction
+6 ===>  AIception Interactive  ===> aiception interactive
+7 ===>  API Discovery Service  ===> api discovery
+8 ===>  API Endpoints  ===> api endpoints
+9 ===>  API for the COVID-19 Tracking QR Code Signin Server.  ===> api for the covid-19 tracking qr code signin server
+10 ===>  API for the Settlement Currency Rate converter  ===> api for the settlement currency rate converter
+11 ===>  API iSendPro  ===> api isendpro
+12 ===>  API title  ===> api title
+13 ===>  APIMATIC API Transformer  ===> apimatic api transformer
+14 ===>  APIs.guru  ===> apis.guru
+15 ===>  ART19 Content  ===> art19 content
+16 ===>  ATM Locator API  ===> atm locator
+17 ===>  AWS Amplify  ===> aws amplify
+18 ===>  AWS App Mesh  ===> aws app mesh
+19 ===>  AWS AppSync  ===> aws appsync
+20 ===>  AWS Application Discovery Service  ===> aws application discovery
+21 ===>  AWS Auto Scaling Plans  ===> aws auto scaling plans
+22 ===>  AWS Backup  ===> aws backup
+23 ===>  AWS Batch  ===> aws batch
+24 ===>  AWS Budgets  ===> aws budgets
+25 ===>  AWS Certificate Manager  ===> aws certificate manager
+26 ===>  AWS Certificate Manager Private Certificate Authority  ===> aws certificate manager private certificate authority
+27 ===>  AWS Cloud Map  ===> aws cloud map
+28 ===>  AWS Cloud9  ===> aws cloud9
+29 ===>  AWS CloudFormation  ===> aws cloudformation
+30 ===>  AWS CloudHSM V2  ===> aws cloudhsm v2
+31 ===>  AWS CloudTrail  ===> aws cloudtrail
+32 ===>  AWS CodeBuild  ===> aws codebuild
+33 ===>  AWS CodeCommit  ===> aws codecommit
+34 ===>  AWS CodeDeploy  ===> aws codedeploy
+35 ===>  AWS CodePipeline  ===> aws codepipeline
+36 ===>  AWS CodeStar  ===> aws codestar
+37 ===>  AWS CodeStar Notifications  ===> aws codestar notifications
+38 ===>  AWS CodeStar connections  ===> aws codestar connections
+39 ===>  AWS Comprehend Medical  ===> aws comprehend medical
+40 ===>  AWS Compute Optimizer  ===> aws compute optimizer
+41 ===>  AWS Config  ===> aws config
+42 ===>  AWS Cost Explorer Service  ===> aws cost explorer
+43 ===>  AWS Cost and Usage Report Service  ===> aws cost and usage report
+44 ===>  AWS Data Exchange  ===> aws data exchange
+45 ===>  AWS Data Pipeline  ===> aws data pipeline
+46 ===>  AWS DataSync  ===> aws datasync
+47 ===>  AWS Database Migration Service  ===> aws database migration
+48 ===>  AWS Device Farm  ===> aws device farm
+49 ===>  AWS Direct Connect  ===> aws direct connect
+50 ===>  AWS Directory Service  ===> aws directory
+51 ===>  AWS EC2 Instance Connect  ===> aws ec2 instance connect
+52 ===>  AWS Elastic Beanstalk  ===> aws elastic beanstalk
+53 ===>  AWS Elemental MediaConvert  ===> aws elemental mediaconvert
+54 ===>  AWS Elemental MediaLive  ===> aws elemental medialive
+55 ===>  AWS Elemental MediaPackage  ===> aws elemental mediapackage
+56 ===>  AWS Elemental MediaPackage VOD  ===> aws elemental mediapackage vod
+57 ===>  AWS Elemental MediaStore  ===> aws elemental mediastore
+58 ===>  AWS Elemental MediaStore Data Plane  ===> aws elemental mediastore data plane
+59 ===>  AWS Global Accelerator  ===> aws global accelerator
+60 ===>  AWS Glue  ===> aws glue
+61 ===>  AWS Greengrass  ===> aws greengrass
+62 ===>  AWS Ground Station  ===> aws ground station
+63 ===>  AWS Health APIs and Notifications  ===> aws health apis and notifications
+64 ===>  AWS Identity and Access Management  ===> aws identity and access management
+65 ===>  AWS IoT 1-Click Devices Service  ===> aws iot 1-click devices
+66 ===>  AWS IoT 1-Click Projects Service  ===> aws iot 1-click projects
+67 ===>  AWS IoT  ===> aws iot
+68 ===>  AWS IoT Analytics  ===> aws iot analytics
+69 ===>  AWS IoT Data Plane  ===> aws iot data plane
+70 ===>  AWS IoT Events  ===> aws iot events
+71 ===>  AWS IoT Events Data  ===> aws iot events data
+72 ===>  AWS IoT Jobs Data Plane  ===> aws iot jobs data plane
+73 ===>  AWS IoT Secure Tunneling  ===> aws iot secure tunneling
+74 ===>  AWS IoT SiteWise  ===> aws iot sitewise
+75 ===>  AWS IoT Things Graph  ===> aws iot things graph
+76 ===>  AWS Key Management Service  ===> aws key management
+77 ===>  AWS Lake Formation  ===> aws lake formation
+78 ===>  AWS Lambda  ===> aws lambda
+79 ===>  AWS License Manager  ===> aws license manager
+80 ===>  AWS Marketplace Catalog Service  ===> aws marketplace catalog
+81 ===>  AWS Marketplace Commerce Analytics  ===> aws marketplace commerce analytics
+82 ===>  AWS Marketplace Entitlement Service  ===> aws marketplace entitlement
+83 ===>  AWS MediaConnect  ===> aws mediaconnect
+84 ===>  AWS MediaTailor  ===> aws mediatailor
+85 ===>  AWS Migration Hub  ===> aws migration hub
+86 ===>  AWS Migration Hub Config  ===> aws migration hub config
+87 ===>  AWS Mobile  ===> aws mobile
+88 ===>  AWS Network Manager  ===> aws network manager
+89 ===>  AWS OpsWorks  ===> aws opsworks
+90 ===>  AWS OpsWorks CM  ===> aws opsworks cm
+91 ===>  AWS Organizations  ===> aws organizations
+92 ===>  AWS Outposts  ===> aws outposts
+93 ===>  AWS Performance Insights  ===> aws performance insights
+94 ===>  AWS Price List Service  ===> aws price list
+95 ===>  AWS RDS DataService  ===> aws rds dataservice
+96 ===>  AWS Resource Access Manager  ===> aws resource access manager
+97 ===>  AWS Resource Groups  ===> aws resource groups
+98 ===>  AWS Resource Groups Tagging API  ===> aws resource groups tagging
+99 ===>  AWS RoboMaker  ===> aws robomaker
+100 ===>  AWS S3 Control  ===> aws s3 control
+101 ===>  AWS SSO Identity Store  ===> aws sso identity store
+102 ===>  AWS SSO OIDC  ===> aws sso oidc
+103 ===>  AWS Savings Plans  ===> aws savings plans
+104 ===>  AWS Secrets Manager  ===> aws secrets manager
+105 ===>  AWS Security Token Service  ===> aws security token
+106 ===>  AWS SecurityHub  ===> aws securityhub
+107 ===>  AWS Server Migration Service  ===> aws server migration
+108 ===>  AWS Service Catalog  ===> aws service catalog
+109 ===>  AWS Shield  ===> aws shield
+110 ===>  AWS Signer  ===> aws signer
+111 ===>  AWS Single Sign-On  ===> aws single sign-on
+112 ===>  AWS Step Functions  ===> aws step functions
+113 ===>  AWS Storage Gateway  ===> aws storage gateway
+114 ===>  AWS Support  ===> aws support
+115 ===>  AWS Transfer Family  ===> aws transfer family
+116 ===>  AWS WAF  ===> aws waf
+117 ===>  AWS WAF Regional  ===> aws waf regional
+118 ===>  AWS WAFV2  ===> aws wafv2
+119 ===>  AWS X-Ray  ===> aws x-ray
+120 ===>  AWSKendraFrontendService  ===> awskendrafrontendservice
+121 ===>  AWSMarketplace Metering  ===> awsmarketplace metering
+122 ===>  AWSServerlessApplicationRepository  ===> awsserverlessapplicationrepository
+123 ===>  Ably REST API  ===> ably
+124 ===>  Abusive Experience Report API  ===> abusive experience report
+125 ===>  Accelerated Mobile Pages (AMP) URL API  ===> accelerated mobile pages (amp) url
+126 ===>  Access Analyzer  ===> access analyzer
+127 ===>  Access Approval API  ===> access approval
+128 ===>  Access Context Manager API  ===> access context manager
+129 ===>  Account API  ===> account
+130 ===>  Accounting  ===> accounting
+131 ===>  Accounts API  ===> accounts
+132 ===>  Ad Exchange Buyer API  ===> ad exchange buyer
+133 ===>  Ad Exchange Buyer API II  ===> ad exchange buyer api ii
+134 ===>  Ad Experience Report API  ===> ad experience report
+135 ===>  AdMob API  ===> admob
+136 ===>  AdSense Host API  ===> adsense host
+137 ===>  AdSense Management API  ===> adsense management
+138 ===>  Adafruit IO REST API  ===> adafruit io
+139 ===>  Admin SDK  ===> admin sdk
+140 ===>  Adobe Experience Manager (AEM) API  ===> adobe experience manager (aem)
+141 ===>  Advicent.FactFinderService  ===> advicent.factfinderservice
+142 ===>  AdvisorManagementClient  ===> advisormanagementclient
+143 ===>  Adyen Checkout API  ===> adyen checkout
+144 ===>  Adyen Checkout Service  ===> adyen checkout
+145 ===>  Adyen Checkout Utility Service  ===> adyen checkout utility
+146 ===>  Adyen Payment API  ===> adyen payment
+147 ===>  Adyen Payout API  ===> adyen payout
+148 ===>  Adyen Recurring API  ===> adyen recurring
+149 ===>  Adyen Recurring Service  ===> adyen recurring
+150 ===>  Adyen for Platforms: Account API  ===> adyen for platforms: account
+151 ===>  Adyen for Platforms: Fund API  ===> adyen for platforms: fund
+152 ===>  Adyen for Platforms: Notification Configuration API  ===> adyen for platforms: notification configuration
+153 ===>  Adyen for Platforms: Notifications  ===> adyen for platforms: notifications
+154 ===>  Afterbanks API  ===> afterbanks
+155 ===>  AgentOS Api V3, diary  ===> agentos api v3, diary
+156 ===>  AgentOS Api V3, maintenance  ===> agentos api v3, maintenance
+157 ===>  Airports API v2  ===> airports api v2
+158 ===>  Alexa For Business  ===> alexa for business
+159 ===>  Amazon API Gateway  ===> amazon api gateway
+160 ===>  Amazon AppConfig  ===> amazon appconfig
+161 ===>  Amazon AppStream  ===> amazon appstream
+162 ===>  Amazon Appflow  ===> amazon appflow
+163 ===>  Amazon Athena  ===> amazon athena
+164 ===>  Amazon Augmented AI Runtime  ===> amazon augmented ai runtime
+165 ===>  Amazon Chime  ===> amazon chime
+166 ===>  Amazon CloudDirectory  ===> amazon clouddirectory
+167 ===>  Amazon CloudFront  ===> amazon cloudfront
+168 ===>  Amazon CloudHSM  ===> amazon cloudhsm
+169 ===>  Amazon CloudSearch  ===> amazon cloudsearch
+170 ===>  Amazon CloudSearch Domain  ===> amazon cloudsearch domain
+171 ===>  Amazon CloudWatch  ===> amazon cloudwatch
+172 ===>  Amazon CloudWatch Application Insights  ===> amazon cloudwatch application insights
+173 ===>  Amazon CloudWatch Events  ===> amazon cloudwatch events
+174 ===>  Amazon CloudWatch Logs  ===> amazon cloudwatch logs
+175 ===>  Amazon CodeGuru Profiler  ===> amazon codeguru profiler
+176 ===>  Amazon CodeGuru Reviewer  ===> amazon codeguru reviewer
+177 ===>  Amazon Cognito Identity  ===> amazon cognito identity
+178 ===>  Amazon Cognito Identity Provider  ===> amazon cognito identity provider
+179 ===>  Amazon Cognito Sync  ===> amazon cognito sync
+180 ===>  Amazon Comprehend  ===> amazon comprehend
+181 ===>  Amazon Connect Participant Service  ===> amazon connect participant
+182 ===>  Amazon Connect Service  ===> amazon connect
+183 ===>  Amazon Data Lifecycle Manager  ===> amazon data lifecycle manager
+184 ===>  Amazon Detective  ===> amazon detective
+185 ===>  Amazon DocumentDB with MongoDB compatibility  ===> amazon documentdb with mongodb compatibility
+186 ===>  Amazon DynamoDB  ===> amazon dynamodb
+187 ===>  Amazon DynamoDB Accelerator (DAX)  ===> amazon dynamodb accelerator (dax)
+188 ===>  Amazon DynamoDB Streams  ===> amazon dynamodb streams
+189 ===>  Amazon EC2 Container Registry  ===> amazon ec2 container registry
+190 ===>  Amazon EC2 Container Service  ===> amazon ec2 container
+191 ===>  Amazon ElastiCache  ===> amazon elasticache
+192 ===>  Amazon Elastic  Inference  ===> amazon elastic  inference
+193 ===>  Amazon Elastic Block Store  ===> amazon elastic block store
+194 ===>  Amazon Elastic Compute Cloud  ===> amazon elastic compute cloud
+195 ===>  Amazon Elastic File System  ===> amazon elastic file system
+196 ===>  Amazon Elastic Kubernetes Service  ===> amazon elastic kubernetes
+197 ===>  Amazon Elastic MapReduce  ===> amazon elastic mapreduce
+198 ===>  Amazon Elastic Transcoder  ===> amazon elastic transcoder
+199 ===>  Amazon Elasticsearch Service  ===> amazon elasticsearch
+200 ===>  Amazon EventBridge  ===> amazon eventbridge
+201 ===>  Amazon FSx  ===> amazon fsx
+202 ===>  Amazon Forecast Query Service  ===> amazon forecast query
+203 ===>  Amazon Forecast Service  ===> amazon forecast
+204 ===>  Amazon Fraud Detector  ===> amazon fraud detector
+205 ===>  Amazon GameLift  ===> amazon gamelift
+206 ===>  Amazon Glacier  ===> amazon glacier
+207 ===>  Amazon GuardDuty  ===> amazon guardduty
+208 ===>  Amazon Honeycode  ===> amazon honeycode
+209 ===>  Amazon Inspector  ===> amazon inspector
+210 ===>  Amazon Interactive Video Service  ===> amazon interactive video
+211 ===>  Amazon Kinesis  ===> amazon kinesis
+212 ===>  Amazon Kinesis Analytics  ===> amazon kinesis analytics
+213 ===>  Amazon Kinesis Firehose  ===> amazon kinesis firehose
+214 ===>  Amazon Kinesis Video Signaling Channels  ===> amazon kinesis video signaling channels
+215 ===>  Amazon Kinesis Video Streams  ===> amazon kinesis video streams
+216 ===>  Amazon Kinesis Video Streams Archived Media  ===> amazon kinesis video streams archived media
+217 ===>  Amazon Kinesis Video Streams Media  ===> amazon kinesis video streams media
+218 ===>  Amazon Lex Model Building Service  ===> amazon lex model building
+219 ===>  Amazon Lex Runtime Service  ===> amazon lex runtime
+220 ===>  Amazon Lightsail  ===> amazon lightsail
+221 ===>  Amazon Machine Learning  ===> amazon machine learning
+222 ===>  Amazon Macie 2  ===> amazon macie 2
+223 ===>  Amazon Macie  ===> amazon macie
+224 ===>  Amazon Managed Blockchain  ===> amazon managed blockchain
+225 ===>  Amazon Mechanical Turk  ===> amazon mechanical turk
+226 ===>  Amazon Mobile Analytics  ===> amazon mobile analytics
+227 ===>  Amazon Neptune  ===> amazon neptune
+228 ===>  Amazon Personalize  ===> amazon personalize
+229 ===>  Amazon Personalize Events  ===> amazon personalize events
+230 ===>  Amazon Personalize Runtime  ===> amazon personalize runtime
+231 ===>  Amazon Pinpoint  ===> amazon pinpoint
+232 ===>  Amazon Pinpoint Email Service  ===> amazon pinpoint email
+233 ===>  Amazon Pinpoint SMS and Voice Service  ===> amazon pinpoint sms and voice
+234 ===>  Amazon Polly  ===> amazon polly
+235 ===>  Amazon QLDB  ===> amazon qldb
+236 ===>  Amazon QLDB Session  ===> amazon qldb session
+237 ===>  Amazon QuickSight  ===> amazon quicksight
+238 ===>  Amazon Redshift  ===> amazon redshift
+239 ===>  Amazon Rekognition  ===> amazon rekognition
+240 ===>  Amazon Relational Database Service  ===> amazon relational database
+241 ===>  Amazon Route 53  ===> amazon route 53
+242 ===>  Amazon Route 53 Domains  ===> amazon route 53 domains
+243 ===>  Amazon Route 53 Resolver  ===> amazon route 53 resolver
+244 ===>  Amazon SageMaker Runtime  ===> amazon sagemaker runtime
+245 ===>  Amazon SageMaker Service  ===> amazon sagemaker
+246 ===>  Amazon Simple Email Service  ===> amazon simple email
+247 ===>  Amazon Simple Notification Service  ===> amazon simple notification
+248 ===>  Amazon Simple Queue Service  ===> amazon simple queue
+249 ===>  Amazon Simple Storage Service  ===> amazon simple storage
+250 ===>  Amazon Simple Systems Manager (SSM)  ===> amazon simple systems manager (ssm)
+251 ===>  Amazon Simple Workflow Service  ===> amazon simple workflow
+252 ===>  Amazon SimpleDB  ===> amazon simpledb
+253 ===>  Amazon Textract  ===> amazon textract
+254 ===>  Amazon Transcribe Service  ===> amazon transcribe
+255 ===>  Amazon Translate  ===> amazon translate
+256 ===>  Amazon WorkDocs  ===> amazon workdocs
+257 ===>  Amazon WorkLink  ===> amazon worklink
+258 ===>  Amazon WorkMail  ===> amazon workmail
+259 ===>  Amazon WorkMail Message Flow  ===> amazon workmail message flow
+260 ===>  Amazon WorkSpaces  ===> amazon workspaces
+261 ===>  AmazonApiGatewayManagementApi  ===> amazonapigatewaymanagementapi
+262 ===>  AmazonApiGatewayV2  ===> amazonapigatewayv2
+263 ===>  AmazonMQ  ===> amazonmq
+264 ===>  Analytics Reporting API  ===> analytics reporting
+265 ===>  Anchore Engine API Server  ===> anchore engine api server
+266 ===>  Android Device Provisioning Partner API  ===> android device provisioning partner
+267 ===>  Android Management API  ===> android management
+268 ===>  Anomaly Detector Client  ===> anomaly detector client
+269 ===>  Anomaly Finder Client  ===> anomaly finder client
+270 ===>  Apacta  ===> apacta
+271 ===>  Api2Pdf - PDF Generation, Powered by AWS Lambda  ===> api2pdf
+272 ===>  ApiDapp  ===> apidapp
+273 ===>  ApiManagementClient  ===> apimanagementclient
+274 ===>  Apigee API  ===> apigee
+275 ===>  App Center Client  ===> app center client
+276 ===>  App Engine Admin API  ===> app engine admin
+277 ===>  AppConfigurationManagementClient  ===> appconfigurationmanagementclient
+278 ===>  AppPlatformManagementClient  ===> appplatformmanagementclient
+279 ===>  AppServiceCertificateOrders API Client  ===> appservicecertificateorders api client
+280 ===>  AppServiceEnvironments API Client  ===> appserviceenvironments api client
+281 ===>  AppServicePlans API Client  ===> appserviceplans api client
+282 ===>  AppVeyor REST API  ===> appveyor
+283 ===>  Application Auto Scaling  ===> application auto scaling
+284 ===>  Application Insights Data Plane  ===> application insights data plane
+285 ===>  ApplicationClient  ===> applicationclient
+286 ===>  ApplicationInsightsManagementClient  ===> applicationinsightsmanagementclient
+287 ===>  Apps Script API  ===> apps script
+288 ===>  Archive  ===> archive
+289 ===>  Article Rewriter and Article Extractor API  ===> article rewriter and article extractor
+290 ===>  Article Search API  ===> article search
+291 ===>  Artifact  ===> artifact
+292 ===>  Artifact Registry API  ===> artifact registry
+293 ===>  Atmosphere API - calculate composition and density of the atmosphere  ===> atmosphere
+294 ===>  AttestationClient  ===> attestationclient
+295 ===>  Auckland Museum API  ===> auckland museum
+296 ===>  Authentication  ===> authentication
+297 ===>  Authentiq  ===> authentiq
+298 ===>  Authentiq Connect API  ===> authentiq connect
+299 ===>  AuthorizationManagementClient  ===> authorizationmanagementclient
+300 ===>  Auto Scaling  ===> auto scaling
+301 ===>  AutoSuggest Client  ===> autosuggest client
+302 ===>  Automata Market Intelligence API  ===> automata market intelligence
+303 ===>  AutomationManagement  ===> automationmanagement
+304 ===>  AutomationManagementClient  ===> automationmanagementclient
+305 ===>  Available API endpoints  ===> available api endpoints
+306 ===>  Avaza API Documentation  ===> avaza api documentation
+307 ===>  AviationData.Systems Airports API V1  ===> aviationdata.systems airports api v1
+308 ===>  Axesso Api  ===> axesso
+309 ===>  Azure Action Groups  ===> azure action groups
+310 ===>  Azure Activity Log Alerts  ===> azure activity log alerts
+311 ===>  Azure Addons Resource Provider  ===> azure addons resource provider
+312 ===>  Azure Alerts Management Service Resource Provider  ===> azure alerts management service resource provider
+313 ===>  Azure App Configuration  ===> azure app configuration
+314 ===>  Azure Bot Service  ===> azure bot
+315 ===>  Azure CDN WebApplicationFirewallManagement  ===> azure cdn webapplicationfirewallmanagement
+316 ===>  Azure Container Registry  ===> azure container registry
+317 ===>  Azure Data Catalog Resource Provider  ===> azure data catalog resource provider
+318 ===>  Azure Data Lake Storage  ===> azure data lake storage
+319 ===>  Azure Data Migration Service Resource Provider  ===> azure data migration service resource provider
+320 ===>  Azure Dedicated HSM Resource Provider  ===> azure dedicated hsm resource provider
+321 ===>  Azure DevOps  ===> azure devops
+322 ===>  Azure Enterprise Knowledge Graph Service  ===> azure enterprise knowledge graph
+323 ===>  Azure IoT Central  ===> azure iot central
+324 ===>  Azure Location Based Services Resource Provider  ===> azure location based services resource provider
+325 ===>  Azure Log Analytics - Operations Management  ===> azure log analytics
+326 ===>  Azure Log Analytics  ===> azure log analytics
+327 ===>  Azure Log Analytics Query Packs  ===> azure log analytics query packs
+328 ===>  Azure ML Commitment Plans Management Client  ===> azure ml commitment plans management client
+329 ===>  Azure ML Web Services Management Client  ===> azure ml web services management client
+330 ===>  Azure Machine Learning Compute Management Client  ===> azure machine learning compute management client
+331 ===>  Azure Machine Learning Datastore Management Client  ===> azure machine learning datastore management client
+332 ===>  Azure Machine Learning Model Management Service  ===> azure machine learning model management
+333 ===>  Azure Machine Learning Workspaces  ===> azure machine learning workspaces
+334 ===>  Azure Maps Resource Provider  ===> azure maps resource provider
+335 ===>  Azure Media Services  ===> azure media
+336 ===>  Azure Metrics  ===> azure metrics
+337 ===>  Azure Migrate  ===> azure migrate
+338 ===>  Azure Migrate Hub  ===> azure migrate hub
+339 ===>  Azure Migrate V2  ===> azure migrate v2
+340 ===>  Azure Monitor Private Link Scopes  ===> azure monitor private link scopes
+341 ===>  Azure Reservation  ===> azure reservation
+342 ===>  Azure Resource Graph  ===> azure resource graph
+343 ===>  Azure Resource Graph Query  ===> azure resource graph query
+344 ===>  Azure SQL Database  ===> azure sql database
+345 ===>  Azure SQL Database API spec  ===> azure sql database api spec
+346 ===>  Azure SQL Database Backup  ===> azure sql database backup
+347 ===>  Azure SQL Database Backup Long Term Retention Policy  ===> azure sql database backup long term retention policy
+348 ===>  Azure SQL Database Datamasking Policies and Rules  ===> azure sql database datamasking policies and rules
+349 ===>  Azure SQL Database capabilities  ===> azure sql database capabilities
+350 ===>  Azure SQL Database disaster recovery configurations  ===> azure sql database disaster recovery configurations
+351 ===>  Azure SQL Database replication links  ===> azure sql database replication links
+352 ===>  Azure SQL Database server firewall rules  ===> azure sql database server firewall rules
+353 ===>  Azure SQL Server API spec  ===> azure sql server api spec
+354 ===>  Azure SQL Server Backup Long Term Retention Vault  ===> azure sql server backup long term retention vault
+355 ===>  Azure Stack Azure Bridge Client  ===> azure stack azure bridge client
+356 ===>  AzureAnalysisServices  ===> azure analysis
+357 ===>  AzureBridgeAdminClient  ===> azurebridgeadminclient
+358 ===>  AzureDataManagementClient  ===> azuredatamanagementclient
+359 ===>  AzureDeploymentManager  ===> azuredeploymentmanager
+360 ===>  AzureDigitalTwinsManagementClient  ===> azuredigitaltwinsmanagementclient
+361 ===>  AzureStack Azure Bridge Client  ===> azure stack azure bridge client
+362 ===>  BBC Nitro API  ===> bbc nitro
+363 ===>  BBC iPlayer Business Layer  ===> bbc iplayer business layer
+364 ===>  BC Data Catalogue API  ===> bc data catalogue
+365 ===>  BC Geographical Names Web Service - REST API  ===> bc geographical names
+366 ===>  BC Gov News API Service 1.0  ===> bc gov news api service 1.0
+367 ===>  BC Laws  ===> bc laws
+368 ===>  BC Route Planner REST API  ===> bc route planner
+369 ===>  BIN Lookup API  ===> bin lookup
+370 ===>  BackupManagementClient  ===> backupmanagementclient
+371 ===>  Bandsintown API  ===> bandsintown
+372 ===>  BatchAI  ===> batchai
+373 ===>  BatchManagement  ===> batchmanagement
+374 ===>  BatchService  ===> batchservice
+375 ===>  BatchService  ===> batchservice
+376 ===>  Beanstream Payments  ===> beanstream payments
+377 ===>  BeezUP  API- DEV  ===> beezup  api- dev
+378 ===>  Betfair: Exchange Streaming API  ===> betfair: exchange streaming
+379 ===>  Betriebsstellen  ===> betriebsstellen
+380 ===>  Bets API  ===> bets
+381 ===>  Bhagavad Gita API  ===> bhagavad gita
+382 ===>  BigOven  ===> bigoven
+383 ===>  BigQuery API  ===> bigquery
+384 ===>  BigQuery Connection API  ===> bigquery connection
+385 ===>  BigQuery Data Transfer API  ===> bigquery data transfer
+386 ===>  BigQuery Reservation API  ===> bigquery reservation
+387 ===>  BikeWise API v2  ===> bikewise api v2
+388 ===>  Bill Payment Validator  ===> bill payment validator
+389 ===>  Billbee API  ===> billbee
+390 ===>  BillingClient  ===> billingclient
+391 ===>  BillingManagementClient  ===> billingmanagementclient
+392 ===>  Binary Authorization API  ===> binary authorization
+393 ===>  BioLink API  ===> biolink
+394 ===>  Bitbucket  ===> bitbucket
+395 ===>  Blazemeter API Explorer  ===> blazemeter api explorer
+396 ===>  BlockchainManagementClient  ===> blockchainmanagementclient
+397 ===>  Blogger API v3  ===> blogger api v3
+398 ===>  BlueprintClient  ===> blueprintclient
+399 ===>  Books API  ===> books
+400 ===>  Botify  ===> botify
+401 ===>  Box Platform API  ===> box platform
+402 ===>  Brain Web API  ===> brain web
+403 ===>  Braket  ===> braket
+404 ===>  Branch Locator API  ===> branch locator
+405 ===>  BrandLovers Marketplace API V1  ===> brandlovers marketplace api v1
+406 ===>  Brex API Documentation  ===> brex api documentation
+407 ===>  Browse API  ===> browse
+408 ===>  Browshot API  ===> browshot
+409 ===>  Budgea API Documentation  ===> budgea api documentation
+410 ===>  Bufferapp  ===> bufferapp
+411 ===>  Bulk Data Storage System Services  ===> bulk data storage system
+412 ===>  BulkSMS JSON  ===> bulksms json
+413 ===>  Bungie.Net  ===> bungie.net
+414 ===>  Bus Route and Stop Methods  ===> bus route and stop methods
+415 ===>  Business Registries  ===> business registries
+416 ===>  Buy Marketing API  ===> buy marketing
+417 ===>  CBB v3 Scores  ===> cbb v3 scores
+418 ===>  CBB v3 Stats  ===> cbb v3 stats
+419 ===>  CFB v3 Scores  ===> cfb v3 scores
+420 ===>  CIS Automotive API  ===> cis automotive
+421 ===>  CORE API v2  ===> core api v2
+422 ===>  COVID-19 data API  ===> covid-19 data
+423 ===>  COVID19 Stats  ===> covid19 stats
+424 ===>  CS:GO v3 Scores  ===> cs:go v3 scores
+425 ===>  CS:GO v3 Stats  ===> cs:go v3 stats
+426 ===>  Calendar API  ===> calendar
+427 ===>  CallFire API Documentation  ===> callfire api documentation
+428 ===>  Cambase.io  ===> cambase.io
+429 ===>  Canada Holidays API  ===> canada holidays
+430 ===>  Car Configurator  ===> car configurator
+431 ===>  Car Registration API  ===> car registration
+432 ===>  CarbonDoomsDay  ===> carbondoomsday
+433 ===>  Catalog API  ===> catalog
+434 ===>  CdnManagementClient  ===> cdnmanagementclient
+435 ===>  Cenit IO - REST API Specification  ===> cenit io
+436 ===>  CertificateRegistrationProvider API Client  ===> certificateregistrationprovider api client
+437 ===>  Certificates API Client  ===> certificates api client
+438 ===>  Channel 4 API  ===> channel 4
+439 ===>  Charity API  ===> charity
+440 ===>  Chomp Food Database API Documentation  ===> chomp food database api documentation
+441 ===>  Chrome UX Report API  ===> chrome ux report
+442 ===>  Chrome Verified Access API  ===> chrome verified access
+443 ===>  CircleCI REST API  ===> circleci
+444 ===>  Cisco PSIRT openVuln API  ===> cisco psirt openvuln
+445 ===>  City Context  ===> city context
+446 ===>  City of Surrey Open511 API  ===> city of surrey open511
+447 ===>  City of Surrey Traffic Loop Count API.  ===> city of surrey traffic loop count api.
+448 ===>  CitySDK Linked Data  ===> citysdk linked data
+449 ===>  Clever-Cloud  ===> clever-cloud
+450 ===>  ClickMeter  ===> clickmeter
+451 ===>  Cloud Asset API  ===> cloud asset
+452 ===>  Cloud AutoML API  ===> cloud automl
+453 ===>  Cloud Bigtable Admin API  ===> cloud bigtable admin
+454 ===>  Cloud Billing API  ===> cloud billing
+455 ===>  Cloud Billing Budget API  ===> cloud billing budget
+456 ===>  Cloud Build API  ===> cloud build
+457 ===>  Cloud Composer API  ===> cloud composer
+458 ===>  Cloud DNS API  ===> cloud dns
+459 ===>  Cloud Data Fusion API  ===> cloud data fusion
+460 ===>  Cloud Data Loss Prevention (DLP) API  ===> cloud data loss prevention (dlp)
+461 ===>  Cloud Dataproc API  ===> cloud dataproc
+462 ===>  Cloud Datastore API  ===> cloud datastore
+463 ===>  Cloud Debugger API  ===> cloud debugger
+464 ===>  Cloud Document AI API  ===> cloud document ai
+465 ===>  Cloud Filestore API  ===> cloud filestore
+466 ===>  Cloud Firestore API  ===> cloud firestore
+467 ===>  Cloud Functions API  ===> cloud functions
+468 ===>  Cloud Healthcare API  ===> cloud healthcare
+469 ===>  Cloud Identity API  ===> cloud identity
+470 ===>  Cloud Identity-Aware Proxy API  ===> cloud identity-aware proxy
+471 ===>  Cloud IoT API  ===> cloud iot
+472 ===>  Cloud Key Management Service (KMS) API  ===> cloud key management service (kms)
+473 ===>  Cloud Life Sciences API  ===> cloud life sciences
+474 ===>  Cloud Logging API  ===> cloud logging
+475 ===>  Cloud Memorystore for Memcached API  ===> cloud memorystore for memcached
+476 ===>  Cloud Monitoring API  ===> cloud monitoring
+477 ===>  Cloud Natural Language API  ===> cloud natural language
+478 ===>  Cloud OS Config API  ===> cloud os config
+479 ===>  Cloud OS Login API  ===> cloud os login
+480 ===>  Cloud Private Catalog  ===> cloud private catalog
+481 ===>  Cloud Private Catalog Producer  ===> cloud private catalog producer
+482 ===>  Cloud Resource Manager API  ===> cloud resource manager
+483 ===>  Cloud Run Admin API  ===> cloud run admin
+484 ===>  Cloud Runtime Configuration API  ===> cloud runtime configuration
+485 ===>  Cloud SQL Admin API  ===> cloud sql admin
+486 ===>  Cloud Scheduler API  ===> cloud scheduler
+487 ===>  Cloud Search API  ===> cloud search
+488 ===>  Cloud Shell API  ===> cloud shell
+489 ===>  Cloud Source Repositories API  ===> cloud source repositories
+490 ===>  Cloud Spanner API  ===> cloud spanner
+491 ===>  Cloud Speech-to-Text API  ===> cloud speech-to-text
+492 ===>  Cloud Storage JSON API  ===> cloud storage json
+493 ===>  Cloud TPU API  ===> cloud tpu
+494 ===>  Cloud Talent Solution API  ===> cloud talent solution
+495 ===>  Cloud Tasks API  ===> cloud tasks
+496 ===>  Cloud Testing API  ===> cloud testing
+497 ===>  Cloud Text-to-Speech API  ===> cloud text-to-speech
+498 ===>  Cloud Tool Results API  ===> cloud tool results
+499 ===>  Cloud Trace API  ===> cloud trace
+500 ===>  Cloud Translation API  ===> cloud translation
+501 ===>  Cloud Video Intelligence API  ===> cloud video intelligence
+502 ===>  Cloud Vision API  ===> cloud vision
+503 ===>  Cnab Online  ===> cnab online
+504 ===>  CodeArtifact  ===> codeartifact
+505 ===>  CodeScan API  ===> codescan
+506 ===>  CognitiveServicesManagementClient  ===> cognitiveservicesmanagementclient
+507 ===>  College Football Data  ===> college football data
+508 ===>  Commerce API  ===> commerce
+509 ===>  CommerceManagementClient  ===> commercemanagementclient
+510 ===>  Community API  ===> community
+511 ===>  CompanyAPI  ===> companyapi
+512 ===>  Compliance API  ===> compliance
+513 ===>  Compute Admin Client  ===> compute admin client
+514 ===>  Compute Engine API  ===> compute engine
+515 ===>  ComputeDiskAdminManagementClient  ===> computediskadminmanagementclient
+516 ===>  ComputeManagementClient  ===> computemanagementclient
+517 ===>  ComputeManagementConvenienceClient  ===> computemanagementconvenienceclient
+518 ===>  Computer Vision  ===> computer vision
+519 ===>  Computer Vision Client  ===> computer vision client
+520 ===>  ConfigCat Public Management API  ===> configcat public management
+521 ===>  ConsumptionManagementClient  ===> consumptionmanagementclient
+522 ===>  Container Analysis API  ===> container analysis
+523 ===>  ContainerInstanceManagementClient  ===> containerinstancemanagementclient
+524 ===>  ContainerRegistryManagementClient  ===> containerregistrymanagementclient
+525 ===>  ContainerServiceClient  ===> containerserviceclient
+526 ===>  Content API for Shopping  ===> content api for shopping
+527 ===>  Content Moderator Client  ===> content moderator client
+528 ===>  Contract.fit API  ===> contract.fit
+529 ===>  Contribly  ===> contribly
+530 ===>  Coronavirus API  ===> coronavirus
+531 ===>  Cosmic Ray API - atmospheric radiation doses and intensities using the PARMA model  ===> cosmic ray
+532 ===>  Cosmos DB  ===> cosmos db
+533 ===>  CostManagementClient  ===> costmanagementclient
+534 ===>  Crossbrowsertesting.com Screenshot Comparisons API  ===> crossbrowsertesting.com screenshot comparisons
+535 ===>  Crucible  ===> crucible
+536 ===>  Custom Image Search Client  ===> custom image search client
+537 ===>  Custom Search API  ===> custom search
+538 ===>  Custom Search Client  ===> custom search client
+539 ===>  Custom Vision Prediction Client  ===> custom vision prediction client
+540 ===>  Custom Vision Training Client  ===> custom vision training client
+541 ===>  Customer Lockbox  ===> customer lockbox
+542 ===>  CustomerInsightsManagementClient  ===> customerinsightsmanagementclient
+543 ===>  D7SMS  ===> d7sms
+544 ===>  DLx  ===> dlx
+545 ===>  DRACOON  ===> dracoon
+546 ===>  DaniWeb Connect API  ===> daniweb connect
+547 ===>  Data API  ===> data
+548 ===>  Data2CRM.API  ===> data2crm.api
+549 ===>  DataBoxEdgeManagementClient  ===> databoxedgemanagementclient
+550 ===>  DataBoxManagementClient  ===> databoxmanagementclient
+551 ===>  DataFactoryManagementClient  ===> datafactorymanagementclient
+552 ===>  DataLakeAnalyticsAccountManagementClient  ===> datalakeanalyticsaccountmanagementclient
+553 ===>  DataLakeAnalyticsCatalogManagementClient  ===> datalakeanalyticscatalogmanagementclient
+554 ===>  DataLakeAnalyticsJobManagementClient  ===> datalakeanalyticsjobmanagementclient
+555 ===>  DataLakeStoreAccountManagementClient  ===> datalakestoreaccountmanagementclient
+556 ===>  DataLakeStoreFileSystemManagementClient  ===> datalakestorefilesystemmanagementclient
+557 ===>  DataShareManagementClient  ===> datasharemanagementclient
+558 ===>  Database Threat Detection Policy APIs  ===> database threat detection policy
+559 ===>  DatabricksClient  ===> databricksclient
+560 ===>  Dataflow API  ===> dataflow
+561 ===>  Dataflow Kit Web Scraper  ===> dataflow kit web scraper
+562 ===>  Daymet Single Pixel Extraction Tool API  ===> daymet single pixel extraction tool
+563 ===>  Deal API  ===> deal
+564 ===>  Dealer  ===> dealer
+565 ===>  Deed API  ===> deed
+566 ===>  DeletedWebApps API Client  ===> deletedwebapps api client
+567 ===>  DeploymentAdminClient  ===> deploymentadminclient
+568 ===>  DeploymentScriptsClient  ===> deploymentscriptsclient
+569 ===>  DevSpacesManagement  ===> devspacesmanagement
+570 ===>  DevTestLabsClient  ===> devtestlabsclient
+571 ===>  DeviceServices  ===> deviceservices
+572 ===>  Diagnostics API Client  ===> diagnostics api client
+573 ===>  Dialogflow API  ===> dialogflow
+574 ===>  Digital Asset Links API  ===> digital asset links
+575 ===>  Discovery Market Research  ===> discovery market research
+576 ===>  DiskResourceProviderClient  ===> diskresourceproviderclient
+577 ===>  Display & Video 360 API  ===> display & video 360
+578 ===>  DnsManagementClient  ===> dnsmanagementclient
+579 ===>  Doc Converter  ===> doc converter
+580 ===>  Docker Engine  ===> docker engine
+581 ===>  DocuSign  ===> docusign
+582 ===>  Domain Services Resource Provider  ===> domain services resource provider
+583 ===>  DomainRegistrationProvider API Client  ===> domainregistrationprovider api client
+584 ===>  Domains API Client  ===> domains api client
+585 ===>  Domains RDAP API  ===> domains rdap
+586 ===>  DoubleClick Bid Manager API  ===> doubleclick bid manager
+587 ===>  Drive API  ===> drive
+588 ===>  Drive Activity API  ===> drive activity
+589 ===>  DriveBC's Open511 API  ===> drivebc's open511
+590 ===>  DropX  ===> dropx
+591 ===>  Dynamics Telemetry  ===> dynamics telemetry
+592 ===>  EC2 Image Builder  ===> ec2 image builder
+593 ===>  EU BON UTIS  ===> eu bon utis
+594 ===>  EVE Swagger Interface  ===> eve swagger interface
+595 ===>  EVEMarketer Marketstat API  ===> evemarketer marketstat
+596 ===>  Early Access  ===> early access
+597 ===>  Elastic Load Balancing  ===> elastic load balancing
+598 ===>  Engagement.ManagementClient  ===> engagement.managementclient
+599 ===>  EngagementFabric  ===> engagementfabric
+600 ===>  Enterobase-API  ===> enterobase-api
+601 ===>  Enterprise Apps Reseller API  ===> enterprise apps reseller
+602 ===>  Entertainment Express API  ===> entertainment express
+603 ===>  Entity Search Client  ===> entity search client
+604 ===>  Error Reporting API  ===> error reporting
+605 ===>  EtMDB REST API v1  ===> etmdb rest api v1
+606 ===>  Europeana Search & Record API  ===> europeana search & record
+607 ===>  EventGridClient  ===> eventgridclient
+608 ===>  EventGridManagementClient  ===> eventgridmanagementclient
+609 ===>  EventHub2018PreviewManagementClient  ===> eventhub2018previewmanagementclient
+610 ===>  EventHubManagementClient  ===> eventhubmanagementclient
+611 ===>  ExaVault  ===> exavault
+612 ===>  ExchangeRate-API  ===> exchangerate-api
+613 ===>  Execution Service  ===> execution
+614 ===>  ExpressRouteCrossConnection REST APIs  ===> expressroutecrossconnection
+615 ===>  Extension API  ===> extension
+616 ===>  Extpose  ===> extpose
+617 ===>  Exude API Service  ===> exude
+618 ===>  FORTNITE REST API  ===> fortnite
+619 ===>  FaSta - Station Facilities Status  ===> fasta
+620 ===>  FabricAdminClient  ===> fabricadminclient
+621 ===>  Face Client  ===> face client
+622 ===>  Fact Check Tools API  ===> fact check tools
+623 ===>  Facts API  ===> facts
+624 ===>  Fahrplan-Free  ===> fahrplan-free
+625 ===>  Faretrotter Travel API  ===> faretrotter travel
+626 ===>  FeatureClient  ===> featureclient
+627 ===>  Feed API  ===> feed
+628 ===>  Figshare  ===> figshare
+629 ===>  Files.com  ===> files.com
+630 ===>  FireBrowse Beta API  ===> firebrowse beta
+631 ===>  Firebase Cloud Messaging API  ===> firebase cloud messaging
+632 ===>  Firebase Dynamic Links API  ===> firebase dynamic links
+633 ===>  Firebase Hosting API  ===> firebase hosting
+634 ===>  Firebase ML API  ===> firebase ml
+635 ===>  Firebase Management API  ===> firebase management
+636 ===>  Firebase Rules API  ===> firebase rules
+637 ===>  Firewall Management Service  ===> firewall management
+638 ===>  FishEye  ===> fisheye
+639 ===>  Fisheye Crucible  ===> fisheye crucible
+640 ===>  Fitbit Plus API  ===> fitbit plus
+641 ===>  Fitness API  ===> fitness
+642 ===>  Flat  ===> flat
+643 ===>  Flickr API Schema  ===> flickr api schema
+644 ===>  Flinkster_API_NG  ===> flinkster_api_ng
+645 ===>  Football Prediction API  ===> football prediction
+646 ===>  Form Recognizer Client  ===> form recognizer client
+647 ===>  FraudLabs Pro Fraud Detection  ===> fraudlabs pro fraud detection
+648 ===>  FraudLabs Pro SMS Verification  ===> fraudlabs pro sms verification
+649 ===>  Freesound  ===> freesound
+650 ===>  FrontDoorManagementClient  ===> frontdoormanagementclient
+651 ===>  Fulfillment API  ===> fulfillment
+652 ===>  Fulfillment.com APIv2  ===> fulfillment.com apiv2
+653 ===>  Fun Generators API  ===> fun generators
+654 ===>  FunTranslations API  ===> funtranslations
+655 ===>  FunTranslations Braille API  ===> funtranslations braille
+656 ===>  Furkot Trips  ===> furkot trips
+657 ===>  G Suite Alert Center API  ===> g suite alert center
+658 ===>  G Suite Vault API  ===> g suite vault
+659 ===>  GOV.UK Pay API  ===> gov.uk pay
+660 ===>  GalleryManagementClient  ===> gallerymanagementclient
+661 ===>  Game Services API  ===> game
+662 ===>  GameSparks Game Details API  ===> gamesparks game details
+663 ===>  Gateway REST API  ===> gateway
+664 ===>  Geneea Natural Language Processing  ===> geneea natural language processing
+665 ===>  Genomics API  ===> genomics
+666 ===>  GeoDB Cities API  ===> geodb cities
+667 ===>  GeoDataSource Location Search  ===> geodatasource location search
+668 ===>  GeoMark Web Service REST API  ===> geomark
+669 ===>  Geocoder REST API  ===> geocoder
+670 ===>  Geographic API  ===> geographic
+671 ===>  Getty Images  ===> getty images
+672 ===>  Giphy API  ===> giphy
+673 ===>  Gisgraphy webservices  ===> gisgraphy
+674 ===>  GitHub v3 REST API  ===> github v3
+675 ===>  Gitea API.  ===> gitea
+676 ===>  Gitlab  ===> gitlab
+677 ===>  Global Magnet API - calculate main components of the geomagnetic field at or near Earth's surface  ===> global magnet
+678 ===>  GlobalWineScore API Documentation  ===> globalwinescore api documentation
+679 ===>  Gmail API  ===> gmail
+680 ===>  Gmail Postmaster Tools API  ===> gmail postmaster tools
+681 ===>  GoToMeeting  ===> gotomeeting
+682 ===>  GoToTraining  ===> gototraining
+683 ===>  GoToWebinar  ===> gotowebinar
+684 ===>  Golf v2  ===> golf v2
+685 ===>  Google Analytics  ===> google analytics
+686 ===>  Google Analytics API  ===> google analytics
+687 ===>  Google Civic Information API  ===> google civic information
+688 ===>  Google Classroom API  ===> google classroom
+689 ===>  Google Cloud Data Catalog API  ===> google cloud data catalog
+690 ===>  Google Cloud Deployment Manager API  ===> google cloud deployment manager
+691 ===>  Google Cloud Deployment Manager API V2Beta Methods  ===> google cloud deployment manager api v2beta methods
+692 ===>  Google Cloud Deployment Manager Alpha API  ===> google cloud deployment manager alpha
+693 ===>  Google Cloud Memorystore for Redis API  ===> google cloud memorystore for redis
+694 ===>  Google Cloud Translation API  ===> google cloud translation
+695 ===>  Google Docs API  ===> google docs
+696 ===>  Google Home  ===> google home
+697 ===>  Google Identity Toolkit API  ===> google identity toolkit
+698 ===>  Google Mirror  ===> google mirror
+699 ===>  Google OAuth2 API  ===> google oauth2
+700 ===>  Google Pay Passes API  ===> google pay passes
+701 ===>  Google Play Android Developer API  ===> google play android developer
+702 ===>  Google Play Custom App Publishing API  ===> google play custom app publishing
+703 ===>  Google Play Developer  ===> google play developer
+704 ===>  Google Play EMM API  ===> google play emm
+705 ===>  Google Play Game Management  ===> google play game management
+706 ===>  Google Play Game Services  ===> google play game
+707 ===>  Google Play Game Services Publishing API  ===> google play game services publishing
+708 ===>  Google Search Console API  ===> google search console
+709 ===>  Google Sheets API  ===> google sheets
+710 ===>  Google Site Verification API  ===> google site verification
+711 ===>  Google Slides API  ===> google slides
+712 ===>  Google+ API  ===> google+
+713 ===>  GraphHopper Directions API  ===> graphhopper directions
+714 ===>  GraphRbacManagementClient  ===> graphrbacmanagementclient
+715 ===>  Greenwire Public API  ===> greenwire public
+716 ===>  Groundwater Wells, Aquifers and Registry API  ===> groundwater wells, aquifers and registry
+717 ===>  Groups Migration API  ===> groups migration
+718 ===>  Groups Settings API  ===> groups settings
+719 ===>  Guest Diagnostic Settings  ===> guest diagnostic settings
+720 ===>  Guest Diagnostic Settings Association  ===> guest diagnostic settings association
+721 ===>  GuestConfiguration  ===> guestconfiguration
+722 ===>  HDInsightJobManagementClient  ===> hdinsightjobmanagementclient
+723 ===>  HDInsightManagementClient  ===> hdinsightmanagementclient
+724 ===>  HERE Tracking  ===> here tracking
+725 ===>  HHS Media Services  ===> hhs media
+726 ===>  HackathonWatch  ===> hackathonwatch
+727 ===>  HanaManagementClient  ===> hanamanagementclient
+728 ===>  Handwrytten API  ===> handwrytten
+729 ===>  Hangouts Chat API  ===> hangouts chat
+730 ===>  Healthcare  ===> healthcare
+731 ===>  HealthcareApisClient  ===> healthcareapisclient
+732 ===>  High Performance Building Database  ===> high performance building database
+733 ===>  Highways England API  ===> highways england
+734 ===>  HomeGraph API  ===> homegraph
+735 ===>  HybridComputeManagementClient  ===> hybridcomputemanagementclient
+736 ===>  HybridDataManagementClient  ===> hybriddatamanagementclient
+737 ===>  Hydra Movies  ===> hydra movies
+738 ===>  HyperDrive  ===> hyperdrive
+739 ===>  IAM Service Account Credentials API  ===> iam service account credentials
+740 ===>  IBM Containers  ===> ibm containers
+741 ===>  ID4i API  ===> id4i
+742 ===>  IP2Location IP Geolocation  ===> ip2location ip geolocation
+743 ===>  IP2Proxy Proxy Detection  ===> ip2proxy proxy detection
+744 ===>  IP2WHOIS Domain Lookup  ===> ip2whois domain lookup
+745 ===>  ISBNdb API  ===> isbndb
+746 ===>  IdealSpot GeoData  ===> idealspot geodata
+747 ===>  Identity API  ===> identity
+748 ===>  Identity and Access Management (IAM) API  ===> identity and access management (iam)
+749 ===>  IllumiDesk  ===> illumidesk
+750 ===>  Image Moderation  ===> image moderation
+751 ===>  Image Search Client  ===> image search client
+752 ===>  Image-Charts  ===> image-charts
+753 ===>  Incidents  ===> incidents
+754 ===>  Indexing API  ===> indexing
+755 ===>  Infermedica API  ===> infermedica
+756 ===>  InfrastructureInsightsManagementClient  ===> infrastructureinsightsmanagementclient
+757 ===>  Ink Recognizer Client  ===> ink recognizer client
+758 ===>  Instagram API  ===> instagram
+759 ===>  InstanceMetadataClient  ===> instancemetadataclient
+760 ===>  Interzoid City Data Standardization API  ===> interzoid city data standardization
+761 ===>  Interzoid Convert Currency Rate API  ===> interzoid convert currency rate
+762 ===>  Interzoid Country Data Standardization API  ===> interzoid country data standardization
+763 ===>  Interzoid Get Address Match Similarity Key API  ===> interzoid get address match similarity key
+764 ===>  Interzoid Get Area Code API  ===> interzoid get area code
+765 ===>  Interzoid Get Area Code From Number API  ===> interzoid get area code from number
+766 ===>  Interzoid Get City Match Similarity Key API  ===> interzoid get city match similarity key
+767 ===>  Interzoid Get Company Name Match Similarity Key API  ===> interzoid get company name match similarity key
+768 ===>  Interzoid Get Country Match Similarity Key API  ===> interzoid get country match similarity key
+769 ===>  Interzoid Get Currency Rate API  ===> interzoid get currency rate
+770 ===>  Interzoid Get Email Information API  ===> interzoid get email information
+771 ===>  Interzoid Get Full Name Match Similarity Key API  ===> interzoid get full name match similarity key
+772 ===>  Interzoid Get Full Name Parsed Match Similarity Key API  ===> interzoid get full name parsed match similarity key
+773 ===>  Interzoid Get Global Phone Number Information API  ===> interzoid get global phone number information
+774 ===>  Interzoid Get Global Time API  ===> interzoid get global time
+775 ===>  Interzoid Get Weather By Zip Code API  ===> interzoid get weather by zip code
+776 ===>  Interzoid Get Weather City API  ===> interzoid get weather city
+777 ===>  Interzoid Global Page Load Performance API  ===> interzoid global page load performance
+778 ===>  Interzoid State Data Standardization API  ===> interzoid state data standardization
+779 ===>  Interzoid Zip Code Detailed Info API  ===> interzoid zip code detailed info
+780 ===>  IntuneResourceManagementClient  ===> intuneresourcemanagementclient
+781 ===>  Inventory  ===> inventory
+782 ===>  IoE² IoT API - to create end-user applications  ===> ioe² iot
+783 ===>  IoTSpacesClient  ===> iotspacesclient
+784 ===>  IotCentralClient  ===> iotcentralclient
+785 ===>  Item API  ===> item
+786 ===>  Item Feed Service  ===> item feed
+787 ===>  JIRA 7.6.1  ===> jira 7.6.1
+788 ===>  JSON storage  ===> json storage
+789 ===>  Jirafe Events  ===> jirafe events
+790 ===>  Jokes One API  ===> jokes one
+791 ===>  Just Eat UK  ===> just eat uk
+792 ===>  KeyServ  ===> keyserv
+793 ===>  KeyVaultClient  ===> keyvaultclient
+794 ===>  KeyVaultManagementClient  ===> keyvaultmanagementclient
+795 ===>  Knowledge Graph Search API  ===> knowledge graph search
+796 ===>  Kubernetes  ===> kubernetes
+797 ===>  Kubernetes Engine API  ===> kubernetes engine
+798 ===>  KustoManagementClient  ===> kustomanagementclient
+799 ===>  LH Partner API  ===> lh partner
+800 ===>  LH Public API  ===> lh public
+801 ===>  LUIS Runtime Client  ===> luis runtime client
+802 ===>  Labs64 NetLicensing RESTful API Test Center  ===> labs64 netlicensing restful api test center
+803 ===>  LambdaTest Screenshots API Documentation  ===> lambdatest screenshots api documentation
+804 ===>  Language Identification (Prediction)  ===> language identification (prediction)
+805 ===>  LanguageTool API  ===> languagetool
+806 ===>  LaunchDarkly REST API  ===> launchdarkly
+807 ===>  Learnifier  ===> learnifier
+808 ===>  LetMC Api V2, Basic (Tier 2)  ===> letmc api v2, basic (tier 2)
+809 ===>  LetMC Api V2, Customer Login  ===> letmc api v2, customer login
+810 ===>  LetMC Api V2, Free (Tier 1)  ===> letmc api v2, free (tier 1)
+811 ===>  LetMC Api V3, reporting  ===> letmc api v3, reporting
+812 ===>  Library Agent API  ===> library agent
+813 ===>  Licensing API  ===> licensing
+814 ===>  Linode  ===> linode
+815 ===>  Listen API: Podcast Search & Directory API  ===> listen api: podcast search & directory
+816 ===>  Listing API  ===> listing
+817 ===>  LoL v3 Projections  ===> lol v3 projections
+818 ===>  LoL v3 Scores  ===> lol v3 scores
+819 ===>  LoL v3 Stats  ===> lol v3 stats
+820 ===>  Local Search Client  ===> local search client
+821 ===>  Local Services API  ===> local
+822 ===>  Locations  ===> locations
+823 ===>  Locations API  ===> locations
+824 ===>  LogicAppsManagementClient  ===> logicappsmanagementclient
+825 ===>  LogicManagementClient  ===> logicmanagementclient
+826 ===>  Logistics API  ===> logistics
+827 ===>  LotaData  ===> lotadata
+828 ===>  Lumminary API  ===> lumminary
+829 ===>  Lyft  ===> lyft
+830 ===>  MATCH API  ===> match
+831 ===>  MDES Customer Service  ===> mdes customer
+832 ===>  ML Team Account Management Client  ===> ml team account management client
+833 ===>  MLB v3 Play-by-Play  ===> mlb v3 play-by-play
+834 ===>  MLB v3 Projections  ===> mlb v3 projections
+835 ===>  MLB v3 RotoBaller Articles  ===> mlb v3 rotoballer articles
+836 ===>  MLB v3 RotoBaller Premium News  ===> mlb v3 rotoballer premium news
+837 ===>  MLB v3 Scores  ===> mlb v3 scores
+838 ===>  MLB v3 Stats  ===> mlb v3 stats
+839 ===>  Machine Learning Compute Management Client  ===> machine learning compute management client
+840 ===>  Machine Learning Workspaces Management Client  ===> machine learning workspaces management client
+841 ===>  Magento Enterprise  ===> magento enterprise
+842 ===>  MailboxValidator Disposable Email Checker  ===> mailboxvalidator disposable email checker
+843 ===>  MailboxValidator Email Validation  ===> mailboxvalidator email validation
+844 ===>  MailboxValidator Free Email Checker  ===> mailboxvalidator free email checker
+845 ===>  Mailsquad  ===> mailsquad
+846 ===>  MaintenanceManagementClient  ===> maintenancemanagementclient
+847 ===>  Managed Service for Microsoft Active Directory API  ===> managed service for microsoft active directory
+848 ===>  Managed Streaming for Kafka  ===> managed streaming for kafka
+849 ===>  ManagedApplicationClient  ===> managedapplicationclient
+850 ===>  ManagedLabsClient  ===> managedlabsclient
+851 ===>  ManagedNetworkManagementClient  ===> managednetworkmanagementclient
+852 ===>  ManagedServiceIdentityClient  ===> managedserviceidentityclient
+853 ===>  ManagedServicesClient  ===> managedservicesclient
+854 ===>  Management Groups  ===> management groups
+855 ===>  ManagementLinkClient  ===> managementlinkclient
+856 ===>  ManagementLockClient  ===> managementlockclient
+857 ===>  Mandrill  ===> mandrill
+858 ===>  Manufacturer Center API  ===> manufacturer center
+859 ===>  Maps  ===> maps
+860 ===>  MariaDBManagementClient  ===> mariadbmanagementclient
+861 ===>  Marketcheck APIs  ===> marketcheck
+862 ===>  Marketing API  ===> marketing
+863 ===>  Marketplace RP Service  ===> marketplace rp
+864 ===>  MarketplaceOrdering.Agreements  ===> marketplaceordering.agreements
+865 ===>  MasterCard ABU API  ===> mastercard abu
+866 ===>  MasterCard Bin Table Listing  ===> mastercard bin table listing
+867 ===>  MediaServicesManagementClient  ===> mediaservicesmanagementclient
+868 ===>  Medium.com - Unofficial API Spec  ===> medium.com
+869 ===>  Merchant Identifier API V2  ===> merchant identifier api v2
+870 ===>  MetaPub  ===> metapub
+871 ===>  Metadata  ===> metadata
+872 ===>  Metadata API  ===> metadata
+873 ===>  Miataru  ===> miataru
+874 ===>  Microsoft Insights  ===> microsoft insights
+875 ===>  Microsoft NetApp  ===> microsoft netapp
+876 ===>  Microsoft Storage Sync  ===> microsoft storage sync
+877 ===>  Microsoft.ResourceHealth  ===> microsoft.resourcehealth
+878 ===>  Microsoft.Support  ===> microsoft.support
+879 ===>  MicrosoftSerialConsoleClient  ===> microsoftserialconsoleclient
+880 ===>  Mixed Reality  ===> mixed reality
+881 ===>  Mobility API  ===> mobility
+882 ===>  Mon-voyage-pas-cher.com Public API  ===> mon-voyage-pas-cher.com public
+883 ===>  MonitorClient  ===> monitorclient
+884 ===>  MonitorManagementClient  ===> monitormanagementclient
+885 ===>  Moon by Ai Weiwei & Olafur Eliasson  ===> moon by ai weiwei & olafur eliasson
+886 ===>  Most Popular API  ===> most popular
+887 ===>  MotaWord API  ===> motaword
+888 ===>  Movie Reviews API  ===> movie reviews
+889 ===>  Musixmatch API  ===> musixmatch
+890 ===>  MySQLManagementClient  ===> mysqlmanagementclient
+891 ===>  NASCAR v2  ===> nascar v2
+892 ===>  NBA Stats  ===> nba stats
+893 ===>  NBA v3 Play-by-Play  ===> nba v3 play-by-play
+894 ===>  NBA v3 Projections  ===> nba v3 projections
+895 ===>  NBA v3 RotoBaller Articles  ===> nba v3 rotoballer articles
+896 ===>  NBA v3 RotoBaller Premium News  ===> nba v3 rotoballer premium news
+897 ===>  NBA v3 Scores  ===> nba v3 scores
+898 ===>  NBA v3 Stats  ===> nba v3 stats
+899 ===>  NFL v3 Play-by-Play  ===> nfl v3 play-by-play
+900 ===>  NFL v3 Projections  ===> nfl v3 projections
+901 ===>  NFL v3 RotoBaller Articles  ===> nfl v3 rotoballer articles
+902 ===>  NFL v3 RotoBaller Premium News  ===> nfl v3 rotoballer premium news
+903 ===>  NFL v3 Scores  ===> nfl v3 scores
+904 ===>  NFL v3 Stats  ===> nfl v3 stats
+905 ===>  NHL v3 Play-by-Play  ===> nhl v3 play-by-play
+906 ===>  NHL v3 Projections  ===> nhl v3 projections
+907 ===>  NHL v3 Scores  ===> nhl v3 scores
+908 ===>  NHL v3 Stats  ===> nhl v3 stats
+909 ===>  NPR Authorization Service  ===> npr authorization
+910 ===>  NPR Identity Service  ===> npr identity
+911 ===>  NPR Listening Service  ===> npr listening
+912 ===>  NPR Sponsorship Service  ===> npr sponsorship
+913 ===>  NPR Station Finder Service  ===> npr station finder
+914 ===>  NSIDC Web Service Documentation Index  ===> nsidc web service documentation index
+915 ===>  NamSor API v2  ===> namsor api v2
+916 ===>  Native Ads Publisher API  ===> native ads publisher
+917 ===>  NaviPlan API  ===> naviplan
+918 ===>  Neblio REST API Suite  ===> neblio rest api suite
+919 ===>  Negotiation API  ===> negotiation
+920 ===>  NeoWs - (Near Earth Object Web Service)  ===> neows
+921 ===>  Netatmo  ===> netatmo
+922 ===>  Netlify's API documentation  ===> netlify's api documentation
+923 ===>  Network Management API  ===> network management
+924 ===>  NetworkAdminManagementClient  ===> networkadminmanagementclient
+925 ===>  NetworkExperiments  ===> networkexperiments
+926 ===>  NetworkManagementClient  ===> networkmanagementclient
+927 ===>  NetworkResourceProviderClient  ===> networkresourceproviderclient
+928 ===>  Neutrino API  ===> neutrino
+929 ===>  News Search Client  ===> news search client
+930 ===>  Noosh API application  ===> noosh api application
+931 ===>  NotificationHubsManagementClient  ===> notificationhubsmanagementclient
+932 ===>  Numbers API  ===> numbers
+933 ===>  Numbers API  ===> numbers
+934 ===>  ODN  ===> odn
+935 ===>  ODWeather  ===> odweather
+936 ===>  OData Service for namespace microsoft.graph  ===> odata service for namespace microsoft.graph
+937 ===>  OMDb  ===> omdb
+938 ===>  OOXML Automation  ===> ooxml automation
+939 ===>  OSDB REST API v1  ===> osdb rest api v1
+940 ===>  OSF APIv2 Documentation  ===> osf apiv2 documentation
+941 ===>  Open Banking - Payments initiation service  ===> open banking
+942 ===>  Open Data API  ===> open data
+943 ===>  Open Skills API  ===> open skills
+944 ===>  Open Targets Platform  ===> open targets platform
+945 ===>  OpenALPR CarCheck API  ===> openalpr carcheck
+946 ===>  OpenAPI space  ===> openapi space
+947 ===>  OpenCage Geocoder  ===> opencage geocoder
+948 ===>  OpenChannel Market API  ===> openchannel market
+949 ===>  OpenFEC  ===> openfec
+950 ===>  OpenFIGI API  ===> openfigi
+951 ===>  OpenFinTech.io  ===> openfintech.io
+952 ===>  OpenTrials API  ===> opentrials
+953 ===>  OpenUV - Global Real-Time UV Index Forecast API  ===> openuv
+954 ===>  Orders API  ===> orders
+955 ===>  OrgHunter  ===> orghunter
+956 ===>  Otoroshi Admin  ===> otoroshi admin
+957 ===>  Owler  ===> owler
+958 ===>  Oxford Dictionaries  ===> oxford dictionaries
+959 ===>  PAC Control  ===> pac control
+960 ===>  PDF Generator API  ===> pdf generator
+961 ===>  PI Web API 2018 SP1 Swagger Spec  ===> pi web api 2018 sp1 swagger spec
+962 ===>  PTV Timetable API - Version 3  ===> ptv timetable
+963 ===>  PageSpeed Insights  ===> pagespeed insights
+964 ===>  PageSpeed Insights API  ===> pagespeed insights
+965 ===>  Pandorabots AIaaS  ===> pandorabots aiaas
+966 ===>  PasswordUtility.Web  ===> passwordutility.web
+967 ===>  PatientView  ===> patientview
+968 ===>  PayRun.IO  ===> payrun.io
+969 ===>  Paylocity API  ===> paylocity
+970 ===>  Payment Account Reference Inquiry API  ===> payment account reference inquiry
+971 ===>  PdfBroker.io API  ===> pdfbroker.io
+972 ===>  Peel Tune-in API  ===> peel tune-in
+973 ===>  PeerTube  ===> peertube
+974 ===>  PeeringManagementClient  ===> peeringmanagementclient
+975 ===>  Pendo Feedback API  ===> pendo feedback
+976 ===>  People API  ===> people
+977 ===>  Personalized Offers  ===> personalized offers
+978 ===>  Personalizer Client  ===> personalizer client
+979 ===>  Personnel Data  ===> personnel data
+980 ===>  Perspective Comment Analyzer API  ===> perspective comment analyzer
+981 ===>  PhantAuth  ===> phantauth
+982 ===>  Pims  ===> pims
+983 ===>  Playable Locations API  ===> playable locations
+984 ===>  Poemist API  ===> poemist
+985 ===>  Policy Troubleshooter API  ===> policy troubleshooter
+986 ===>  PolicyClient  ===> policyclient
+987 ===>  PolicyEventsClient  ===> policyeventsclient
+988 ===>  PolicyMetadataClient  ===> policymetadataclient
+989 ===>  PolicyStatesClient  ===> policystatesclient
+990 ===>  PolicyTrackedResourcesClient  ===> policytrackedresourcesclient
+991 ===>  Polling Places API  ===> polling places
+992 ===>  Poly API  ===> poly
+993 ===>  Polygon  ===> polygon
+994 ===>  Positioning API  ===> positioning
+995 ===>  PostgreSQLManagementClient  ===> postgresqlmanagementclient
+996 ===>  Postmark API  ===> postmark
+997 ===>  Postmark Account-level API  ===> postmark account-level
+998 ===>  Power BI Embedded Management Client  ===> power bi embedded management client
+999 ===>  PowerBIDedicated  ===> powerbidedicated
+1000 ===>  PredictionEndpoint  ===> predictionendpoint
+1001 ===>  Price API  ===> price
+1002 ===>  PrivateDnsManagementClient  ===> privatednsmanagementclient
+1003 ===>  Probely Developers  ===> probely developers
+1004 ===>  Product Finder API  ===> product finder
+1005 ===>  Profile  ===> profile
+1006 ===>  Progress to Rate Limit API  ===> progress to rate limit
+1007 ===>  Provider API Client  ===> provider api client
+1008 ===>  Proximity Beacon API  ===> proximity beacon
+1009 ===>  Psycholinguistic Text Analytics  ===> psycholinguistic text analytics
+1010 ===>  Qakka  ===> qakka
+1011 ===>  QnAMaker Client  ===> qnamaker client
+1012 ===>  QnAMaker Runtime Client  ===> qnamaker runtime client
+1013 ===>  Qualpay Payment Gateway  ===> qualpay payment gateway
+1014 ===>  Quicksold  ===> quicksold
+1015 ===>  RAWG Video Games Database API  ===> rawg video games database
+1016 ===>  Radio & Music Services  ===> radio & music
+1017 ===>  Rail Station Information  ===> rail station information
+1018 ===>  Random Lottery Number generator API  ===> random lottery number generator
+1019 ===>  Randommer API  ===> randommer
+1020 ===>  Rat Genome Database REST API  ===> rat genome database
+1021 ===>  Real-Time Bus Predictions  ===> real-time bus predictions
+1022 ===>  Real-Time Rail Predictions  ===> real-time rail predictions
+1023 ===>  Real-time Bidding API  ===> real-time bidding
+1024 ===>  Rebilly  ===> rebilly
+1025 ===>  Recommendation API  ===> recommendation
+1026 ===>  Recommendations AI  ===> recommendations ai
+1027 ===>  Recommendations API Client  ===> recommendations api client
+1028 ===>  Recommender API  ===> recommender
+1029 ===>  RecoveryServicesBackupClient  ===> recoveryservicesbackupclient
+1030 ===>  RecoveryServicesClient  ===> recoveryservicesclient
+1031 ===>  RedisManagementClient  ===> redismanagementclient
+1032 ===>  Regulations.gov  ===> regulations.gov
+1033 ===>  Reisezentren-API  ===> reisezentren-api
+1034 ===>  Relay  ===> relay
+1035 ===>  Reloadly Topup  ===> reloadly topup
+1036 ===>  RemediationsClient  ===> remediationsclient
+1037 ===>  Remote Build Execution API  ===> remote build execution
+1038 ===>  Remote Diagnostic Support  ===> remote diagnostic support
+1039 ===>  Remote Settings  ===> remote settings
+1040 ===>  Replica Pool  ===> replica pool
+1041 ===>  Reports API  ===> reports
+1042 ===>  Request Baskets API  ===> request baskets
+1043 ===>  ResourceHealthMetadata API Client  ===> resourcehealthmetadata api client
+1044 ===>  ResourceManagementClient  ===> resourcemanagementclient
+1045 ===>  Ritc  ===> ritc
+1046 ===>  RiteKit  ===> ritekit
+1047 ===>  Rotten Tomatoes  ===> rotten tomatoes
+1048 ===>  Routing  ===> routing
+1049 ===>  Rudder API  ===> rudder
+1050 ===>  Run History APIs  ===> run history
+1051 ===>  RunCommandsClient  ===> runcommandsclient
+1052 ===>  Runscope API  ===> runscope
+1053 ===>  SAS Portal API  ===> sas portal
+1054 ===>  SEDRA IV API  ===> sedra iv
+1055 ===>  SIGNL4  ===> signl4
+1056 ===>  SYNQ Video  ===> synq video
+1057 ===>  Safe Browsing API  ===> safe browsing
+1058 ===>  SalesLoft Platform  ===> salesloft platform
+1059 ===>  Sandbox API  ===> sandbox
+1060 ===>  SchedulerManagementClient  ===> schedulermanagementclient
+1061 ===>  Schemas  ===> schemas
+1062 ===>  SchoolDigger API V1  ===> schooldigger api v1
+1063 ===>  Scrape Website Email API  ===> scrape website email
+1064 ===>  SeaBreezeManagementClient  ===> seabreezemanagementclient
+1065 ===>  Search  ===> search
+1066 ===>  Search Ads 360 API  ===> search ads 360
+1067 ===>  Search Console API  ===> search console
+1068 ===>  Search Services  ===> search
+1069 ===>  SearchIndexClient  ===> searchindexclient
+1070 ===>  SearchManagementClient  ===> searchmanagementclient
+1071 ===>  SearchServiceClient  ===> searchserviceclient
+1072 ===>  Secret Manager API  ===> secret manager
+1073 ===>  Security Center  ===> security center
+1074 ===>  Security Command Center API  ===> security command center
+1075 ===>  Security Insights  ===> security insights
+1076 ===>  Seldon  ===> seldon
+1077 ===>  SelectPdf HTML To PDF API  ===> selectpdf html to pdf
+1078 ===>  Seller Service Metrics API  ===> seller service metrics
+1079 ===>  Semantic API  ===> semantic
+1080 ===>  Semantic Tile API  ===> semantic tile
+1081 ===>  Semantria  ===> semantria
+1082 ===>  Send Person to Merchant  ===> send person to merchant
+1083 ===>  SendGrid v3 API Documentation  ===> sendgrid v3 api documentation
+1084 ===>  ServerManagement  ===> servermanagement
+1085 ===>  Service Broker  ===> service broker
+1086 ===>  Service Consumer Management API  ===> service consumer management
+1087 ===>  Service Control API  ===> service control
+1088 ===>  Service Directory API  ===> service directory
+1089 ===>  Service Fabric Client APIs  ===> service fabric client
+1090 ===>  Service Management API  ===> service management
+1091 ===>  Service Map  ===> service map
+1092 ===>  Service Networking API  ===> service networking
+1093 ===>  Service Quotas  ===> service quotas
+1094 ===>  Service Usage API  ===> service usage
+1095 ===>  ServiceBusManagementClient  ===> servicebusmanagementclient
+1096 ===>  ServiceFabricClient  ===> servicefabricclient
+1097 ===>  ServiceFabricManagementClient  ===> servicefabricmanagementclient
+1098 ===>  Sessions API  ===> sessions
+1099 ===>  SharedImageGalleryServiceClient  ===> sharedimagegalleryserviceclient
+1100 ===>  SheerSEO API  ===> sheerseo
+1101 ===>  ShipEngine API  ===> shipengine
+1102 ===>  ShipStation Developer Portal  ===> shipstation developer portal
+1103 ===>  Shorten.REST API Documentation  ===> shorten.rest api documentation
+1104 ===>  Shutterstock API Explorer  ===> shutterstock api explorer
+1105 ===>  SignalRManagementClient  ===> signalrmanagementclient
+1106 ===>  SimplyRETS  ===> simplyrets
+1107 ===>  SiteRecoveryManagementClient  ===> siterecoverymanagementclient
+1108 ===>  Slack Web API  ===> slack web
+1109 ===>  Slicebox API  ===> slicebox
+1110 ===>  SlideRoom API V2  ===> slideroom api v2
+1111 ===>  Smartphone Test Farm  ===> smartphone test farm
+1112 ===>  Soccer v3 Projections  ===> soccer v3 projections
+1113 ===>  Soccer v3 Scores  ===> soccer v3 scores
+1114 ===>  Soccer v3 Stats  ===> soccer v3 stats
+1115 ===>  Socio-demo API  ===> socio-demo
+1116 ===>  Software Plan RP  ===> software plan rp
+1117 ===>  Solar VPS  ===> solar vps
+1118 ===>  Sonar Trading  ===> sonar trading
+1119 ===>  SpectroCoin Merchant  ===> spectrocoin merchant
+1120 ===>  Spell Check Client  ===> spell check client
+1121 ===>  Spending Pulse  ===> spending pulse
+1122 ===>  Spinitron v2 API  ===> spinitron v2
+1123 ===>  SportsData API  ===> sportsdata
+1124 ===>  Spotify  ===> spotify
+1125 ===>  SqlManagementClient  ===> sqlmanagementclient
+1126 ===>  SqlVirtualMachineManagementClient  ===> sqlvirtualmachinemanagementclient
+1127 ===>  Square Connect  ===> square connect
+1128 ===>  StackExchange  ===> stackexchange
+1129 ===>  Stackdriver Profiler API  ===> stackdriver profiler
+1130 ===>  Starwars Translations API  ===> starwars translations
+1131 ===>  StatSocial Platform  ===> statsocial platform
+1132 ===>  Stationsdatenbereitstellung  ===> stationsdatenbereitstellung
+1133 ===>  Stats  ===> stats
+1134 ===>  Stoplight  ===> stoplight
+1135 ===>  StorSimple8000SeriesManagementClient  ===> storsimple8000seriesmanagementclient
+1136 ===>  StorSimpleManagementClient  ===> storsimplemanagementclient
+1137 ===>  Storage Cache Mgmt Client  ===> storage cache mgmt client
+1138 ===>  Storage Transfer API  ===> storage transfer
+1139 ===>  StorageImportExport  ===> storageimportexport
+1140 ===>  StorageManagement  ===> storagemanagement
+1141 ===>  StorageManagementClient  ===> storagemanagementclient
+1142 ===>  Storecove API  ===> storecove
+1143 ===>  Storm Glass Marine Weather  ===> storm glass marine weather
+1144 ===>  Story  ===> story
+1145 ===>  StreamAnalyticsManagementClient  ===> streamanalyticsmanagementclient
+1146 ===>  Street View Publish API  ===> street view publish
+1147 ===>  SubscriptionClient  ===> subscriptionclient
+1148 ===>  SubscriptionDefinitionsClient  ===> subscriptiondefinitionsclient
+1149 ===>  SubscriptionsManagementClient  ===> subscriptionsmanagementclient
+1150 ===>  Swagger API-REST for Patrowl Engines  ===> swagger api-rest for patrowl engines
+1151 ===>  Swagger API2Cart  ===> swagger api2cart
+1152 ===>  Swagger Generator  ===> swagger generator
+1153 ===>  Swagger2OpenAPI Converter  ===> swagger2openapi converter
+1154 ===>  SwaggerHub Registry API  ===> swaggerhub registry
+1155 ===>  Swiss NextGen Banking API-Framework  ===> swiss nextgen banking api-framework
+1156 ===>  Synthetics  ===> synthetics
+1157 ===>  TAGGUN Receipt OCR Scanning API  ===> taggun receipt ocr scanning
+1158 ===>  TV API  ===> tv
+1159 ===>  TVmaze user API  ===> tvmaze user
+1160 ===>  Tag Manager API  ===> tag manager
+1161 ===>  Tasks API  ===> tasks
+1162 ===>  Taxamo  ===> taxamo
+1163 ===>  Taxonomy API  ===> taxonomy
+1164 ===>  Taxrates.io  ===> taxrates.io
+1165 ===>  Text Analysis API  ===> text analysis
+1166 ===>  Text Analytics Client  ===> text analytics client
+1167 ===>  The Consumer Financial Protection Bureau  ===> the consumer financial protection bureau
+1168 ===>  The Mercure protocol  ===> the mercure protocol
+1169 ===>  The Noun Project  ===> the noun project
+1170 ===>  The SMS Works API  ===> the sms works
+1171 ===>  The Water Linked Underwater GPS API  ===> the water linked underwater gps
+1172 ===>  TheTVDB API v3  ===> thetvdb api v3
+1173 ===>  They Said So Quotes API  ===> they said so quotes
+1174 ===>  TimeSeriesInsightsClient  ===> timeseriesinsightsclient
+1175 ===>  Times Newswire API  ===> times newswire
+1176 ===>  TimesTags API  ===> timestags
+1177 ===>  TinyUID.com  ===> tinyuid.com
+1178 ===>  Top Stories  ===> top stories
+1179 ===>  TopLevelDomains API Client  ===> topleveldomains api client
+1180 ===>  Tradematic Cloud API  ===> tradematic cloud
+1181 ===>  Tradeworks  ===> tradeworks
+1182 ===>  Traffic Director API  ===> traffic director
+1183 ===>  TrafficManagerManagementClient  ===> trafficmanagermanagementclient
+1184 ===>  TrainingApi  ===> trainingapi
+1185 ===>  Transform  ===> transform
+1186 ===>  TransitFeeds API  ===> transitfeeds
+1187 ===>  Translation API  ===> translation
+1188 ===>  Transport for London Unified  ===> transport for london unified
+1189 ===>  Transportation Laws and Incentives  ===> transportation laws and incentives
+1190 ===>  Trello  ===> trello
+1191 ===>  Turbine Labs API  ===> turbine labs
+1192 ===>  Tweets and Users  ===> tweets and users
+1193 ===>  Twitter API  ===> twitter
+1194 ===>  U.S. EPA Enforcement and Compliance History Online (ECHO) - All Data  ===> u.s. epa enforcement and compliance history online (echo)
+1195 ===>  U.S. EPA Enforcement and Compliance History Online (ECHO) - Clean Air Act  ===> u.s. epa enforcement and compliance history online (echo)
+1196 ===>  U.S. EPA Enforcement and Compliance History Online (ECHO) - Clean Water Act (CWA) Rest Services  ===> u.s. epa enforcement and compliance history online (echo)
+1197 ===>  U.S. EPA Enforcement and Compliance History Online (ECHO) - Detailed Facility Report (DFR)  ===> u.s. epa enforcement and compliance history online (echo)
+1198 ===>  U.S. EPA Enforcement and Compliance History Online (ECHO) - Enforcement Case Search  ===> u.s. epa enforcement and compliance history online (echo)
+1199 ===>  U.S. EPA Enforcement and Compliance History Online (ECHO) - Resource Conservation and Recovery Act  ===> u.s. epa enforcement and compliance history online (echo)
+1200 ===>  U.S. EPA Enforcement and Compliance History Online (ECHO) - Safe Drinking Water Act  ===> u.s. epa enforcement and compliance history online (echo)
+1201 ===>  UGC  ===> ugc
+1202 ===>  UK Parliament Search Service  ===> uk parliament search
+1203 ===>  Update Management  ===> update management
+1204 ===>  UpdateAdminClient  ===> updateadminclient
+1205 ===>  UsageManagementClient  ===> usagemanagementclient
+1206 ===>  User API  ===> user
+1207 ===>  VAT API  ===> vat
+1208 ===>  VM Insights Onboarding  ===> vm insights onboarding
+1209 ===>  VMwareCloudSimple  ===> vmwarecloudsimple
+1210 ===>  Vehicle Enquiry API  ===> vehicle enquiry
+1211 ===>  Vehicle Image  ===> vehicle image
+1212 ===>  Velo Payments APIs  ===> velo payments
+1213 ===>  Vestorly API  ===> vestorly
+1214 ===>  VictorOps  ===> victorops
+1215 ===>  Video Search Client  ===> video search client
+1216 ===>  Vimeo  ===> vimeo
+1217 ===>  VirtualMachineImageTemplate  ===> virtualmachineimagetemplate
+1218 ===>  VirtualWANAsAServiceManagementClient  ===> virtualwanasaservicemanagementclient
+1219 ===>  VisageCloud  ===> visagecloud
+1220 ===>  VisibleThread API  ===> visiblethread
+1221 ===>  Visual Crossing Weather API  ===> visual crossing weather
+1222 ===>  Visual Search Client  ===> visual search client
+1223 ===>  Visual Studio Projects Resource Provider Client  ===> visual studio projects resource provider client
+1224 ===>  Visual Studio Resource Provider Client  ===> visual studio resource provider client
+1225 ===>  VocaDB  ===> vocadb
+1226 ===>  Vonage Integration Suite  ===> vonage integration suite
+1227 ===>  Voodoo Manufacturing 3D Print API  ===> voodoo manufacturing 3d print
+1228 ===>  WINSMS  ===> winsms
+1229 ===>  Wavecell.Sms.Api  ===> wavecell.sms.api
+1230 ===>  Wayback API  ===> wayback
+1231 ===>  WeGA API  ===> wega
+1232 ===>  Wealthport API  ===> wealthport
+1233 ===>  Weatherbit.io - Swagger UI Weather API documentation  ===> weatherbit.io
+1234 ===>  Web Fonts Developer API  ===> web fonts developer
+1235 ===>  Web Search Client  ===> web search client
+1236 ===>  Web Security Scanner API  ===> web security scanner
+1237 ===>  WebApplicationFirewallManagement  ===> webapplicationfirewallmanagement
+1238 ===>  WebApps API Client  ===> webapps api client
+1239 ===>  WebSite Management Client  ===> website management client
+1240 ===>  Wedpax  ===> wedpax
+1241 ===>  WhatsApp Business API  ===> whatsapp business
+1242 ===>  Where to Credit API  ===> where to credit
+1243 ===>  Who Hosts This API  ===> who hosts this
+1244 ===>  WikiPathways Webservices  ===> wikipathways
+1245 ===>  Wikimedia  ===> wikimedia
+1246 ===>  Word Associations API  ===> word associations
+1247 ===>  Wordnik  ===> wordnik
+1248 ===>  WorkBC Job Posting API  ===> workbc job posting
+1249 ===>  WorkbookClient  ===> workbookclient
+1250 ===>  Workload Monitor  ===> workload monitor
+1251 ===>  Wowza Streaming Cloud REST API Reference Documentation  ===> wowza streaming cloud rest api reference documentation
+1252 ===>  XKCD  ===> xkcd
+1253 ===>  YNAB API Endpoints  ===> ynab api endpoints
+1254 ===>  YouTube Analytics API  ===> youtube analytics
+1255 ===>  YouTube Data API v3  ===> youtube data api v3
+1256 ===>  YouTube Reporting API  ===> youtube reporting
+1257 ===>  Yunbi  ===> yunbi
+1258 ===>  Zalando Shop  ===> zalando shop
+1259 ===>  Zappiti Player API  ===> zappiti player
+1260 ===>  Zenoti Open  ===> zenoti open
+1261 ===>  Zoom API  ===> zoom
+1262 ===>  airportsapi  ===> airportsapi
+1263 ===>  api.clarify.io  ===> api.clarify.io
+1264 ===>  api.datumbox.com  ===> api.datumbox.com
+1265 ===>  api.ecota.co v2  ===> api.ecota.co v2
+1266 ===>  azureactivedirectory  ===> azureactivedirectory
+1267 ===>  bng2latlong  ===> bng2latlong
+1268 ===>  brainbi  ===> brainbi
+1269 ===>  bridgedb webservices  ===> bridgedb
+1270 ===>  customproviders  ===> customproviders
+1271 ===>  departureboard.io API  ===> departureboard.io
+1272 ===>  domainsdb.info  ===> domainsdb.info
+1273 ===>  dweet.io  ===> dweet.io
+1274 ===>  eBay Finances API  ===> ebay finances
+1275 ===>  eDRV API  ===> edrv
+1276 ===>  eNanoMapper database  ===> enanomapper database
+1277 ===>  elmah.io API  ===> elmah.io
+1278 ===>  geodesystems.com:443  ===> geodesystems.com:443
+1279 ===>  groov View Public API  ===> groov view public
+1280 ===>  hetras Booking API Version 0  ===> hetras booking api version 0
+1281 ===>  hetras Hotel API Version 0  ===> hetras hotel api version 0
+1282 ===>  iQualify Management API  ===> iqualify management
+1283 ===>  import.io  ===> import.io
+1284 ===>  iotDpsClient  ===> iotdpsclient
+1285 ===>  iotHubClient  ===> iothubclient
+1286 ===>  ipTwist  ===> iptwist
+1287 ===>  koomalooma Partner API  ===> koomalooma partner
+1288 ===>  nFusion Solutions Market Data API v1  ===> nfusion solutions market data api v1
+1289 ===>  nextAuth API  ===> nextauth
+1290 ===>  nic.at Domainfinder API Documentation  ===> nic.at domainfinder api documentation
+1291 ===>  obono RKSV  ===> obono rksv
+1292 ===>  ocrapi  ===> ocrapi
+1293 ===>  opendatasoft  ===> opendatasoft
+1294 ===>  paccurate.io  ===> paccurate.io
+1295 ===>  portal  ===> portal
+1296 ===>  posty_API  ===> posty_api
+1297 ===>  rePower  ===> repower
+1298 ===>  redirection.io  ===> redirection.io
+1299 ===>  reverb  ===> reverb
+1300 ===>  rv API  ===> rv
+1301 ===>  setlist.fm API  ===> setlist.fm
+1302 ===>  shinobiapi  ===> shinobiapi
+1303 ===>  smart-me  ===> smart-me
+1304 ===>  traccar  ===> traccar
+1305 ===>  trash nothing  ===> trash nothing
+1306 ===>  uebermaps API endpoints  ===> uebermaps api endpoints
+1307 ===>  vs API  ===> vs
+1308 ===>  watchful.li  ===> watchful.li
+1309 ===>  windowsesu  ===> windowsesu
+1310 ===>  www.zoomconnect.com  ===> www.zoomconnect.com
