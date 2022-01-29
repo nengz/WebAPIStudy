@@ -1,0 +1,54 @@
+1 ===>  AniList  ===> anilist
+2 ===>  Artsy  ===> artsy
+3 ===>  Braintree  ===> braintree
+4 ===>  Brandfolder  ===> brandfolder
+5 ===>  Buildkite  ===> buildkite
+6 ===>  Buildkite  ===> buildkite
+7 ===>  Catalysis Hub  ===> catalysis hub
+8 ===>  Catalysis-Hub.Org  ===> catalysis-hub.org
+9 ===>  CommerceTools  ===> commercetools
+10 ===>  Contentful  ===> contentful
+11 ===>  Deutsche Bahn  ===> deutsche bahn
+12 ===>  Deutsche Bahn  ===> deutsche bahn
+13 ===>  Digitransit HSL  ===> digitransit hsl
+14 ===>  Digitransit HSL  ===> digitransit hsl
+15 ===>  EHRI  ===> ehri
+16 ===>  EHRI  ===> ehri
+17 ===>  EtMDB  ===> etmdb
+18 ===>  FakeQL  ===> fakeql
+19 ===>  GitHub  ===> github
+20 ===>  GitHub  ===> github
+21 ===>  GitLab  ===> gitlab
+22 ===>  Google directions API  ===> google directions
+23 ===>  GraphLoc  ===> graphloc
+24 ===>  GraphQL Community Graph  ===> graphql community graph
+25 ===>  GraphQL Pokémon  ===> graphql pokémon
+26 ===>  HIVDB  ===> hivdb
+27 ===>  HIVDB  ===> hivdb
+28 ===>  Hacker News<br>Reddit<br>Twitter<br>Giphy  ===> hacker news reddit twitter giphy
+29 ===>  Hollowverse  ===> hollowverse
+30 ===>  Mattermark  ===> mattermark
+31 ===>  Memair  ===> memair
+32 ===>  MetaMate  ===> metamate
+33 ===>  Microsoft Graph (DEMO)  ===> microsoft graph (demo)
+34 ===>  MongoDB Northwind demo  ===> mongodb northwind demo
+35 ===>  MongoDB TODO-List  ===> mongodb todo-list
+36 ===>  MusicBrainz  ===> musicbrainz
+37 ===>  Pipefy GraphQL API  ===> pipefy graphql
+38 ===>  Planets  ===> planets
+39 ===>  PokeAPI  ===> pokeapi
+40 ===>  React Finland  ===> react finland
+41 ===>  React Finland  ===> react finland
+42 ===>  SWAPI  ===> swapi
+43 ===>  Shopify Storefront  ===> shopify storefront
+44 ===>  Shopify Storefront  ===> shopify storefront
+45 ===>  Spacex Land  ===> spacex land
+46 ===>  Spotify GraphQL Server  ===> spotify graphql server
+47 ===>  The Rick and Morty API  ===> the rick and morty
+48 ===>  TravelgateX  ===> travelgatex
+49 ===>  UFC GraphQL Server  ===> ufc graphql server
+50 ===>  UN SDG data series API  ===> un sdg data series
+51 ===>  Universe  ===> universe
+52 ===>  Yelp  ===> yelp
+53 ===>  Yelp  ===> yelp
+54 ===>  melodyRepo  ===> melodyrepo
