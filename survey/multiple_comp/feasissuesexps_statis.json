@@ -1,0 +1,2144 @@
+{
+    "EC1": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.45",
+            "p-Value": "< 0.01"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.45",
+            "p-Value": "< 0.01"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.54",
+            "p-Value": "< 0.05"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        }
+    },
+    "EC10": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        }
+    },
+    "EC11": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        }
+    },
+    "EC2": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.43",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.45",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.57",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.43",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.59",
+            "p-Value": "--"
+        }
+    },
+    "EC3": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.56",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        }
+    },
+    "EC4": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.45",
+            "p-Value": "< 0.01"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.44",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.43",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        }
+    },
+    "EC5": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.42",
+            "p-Value": "< 0.001"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.44",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.57",
+            "p-Value": "< 0.01"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.53",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.43",
+            "p-Value": "< 0.01"
+        }
+    },
+    "EC6": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        }
+    },
+    "EC7": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.46",
+            "p-Value": "< 0.05"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.46",
+            "p-Value": "< 0.05"
+        },
+        "China vs. Others": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.54",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.55",
+            "p-Value": "--"
+        }
+    },
+    "EC8": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        }
+    },
+    "EC9": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.55",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.56",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        }
+    },
+    "F1": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.59",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.45",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.54",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        }
+    },
+    "F10": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.56",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.56",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.56",
+            "p-Value": "< 0.05"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.53",
+            "p-Value": "< 0.05"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        }
+    },
+    "F11": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.55",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.59",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.60",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.41",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.45",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        }
+    },
+    "F12": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.52",
+            "p-Value": "< 0.05"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.52",
+            "p-Value": "< 0.05"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        }
+    },
+    "F13": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        }
+    },
+    "F14": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        }
+    },
+    "F2": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.62",
+            "p-Value": "< 0.001"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.61",
+            "p-Value": "< 0.01"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.43",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.54",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.56",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        }
+    },
+    "F3": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.55",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.58",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.44",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.57",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.55",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.53",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.45",
+            "p-Value": "--"
+        }
+    },
+    "F4": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.41",
+            "p-Value": "< 0.05"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.59",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.69",
+            "p-Value": "< 0.01"
+        },
+        "China vs. Others": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.57",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.55",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        }
+    },
+    "F5": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.45",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.54",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.59",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.44",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.44",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.43",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.54",
+            "p-Value": "--"
+        }
+    },
+    "F6": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.44",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.53",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.53",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.56",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.44",
+            "p-Value": "--"
+        }
+    },
+    "F7": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.40",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.42",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.54",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.45",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.40",
+            "p-Value": "< 0.05"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        }
+    },
+    "F8": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.64",
+            "p-Value": "< 0.01"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.35",
+            "p-Value": "< 0.05"
+        },
+        "China vs. Others": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.61",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.37",
+            "p-Value": "< 0.01"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.58",
+            "p-Value": "< 0.05"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        }
+    },
+    "F9": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.54",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.56",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.68",
+            "p-Value": "< 0.01"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.36",
+            "p-Value": "< 0.01"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.54",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.55",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        }
+    },
+    "IT1": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.44",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.40",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.55",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.56",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.44",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.58",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        }
+    },
+    "IT10": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.38",
+            "p-Value": "< 0.01"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.36",
+            "p-Value": "< 0.01"
+        },
+        "China vs. Others": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.39",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.58",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.43",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        }
+    },
+    "IT11": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.44",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.35",
+            "p-Value": "< 0.01"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.40",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.34",
+            "p-Value": "< 0.01"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.58",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.42",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.41",
+            "p-Value": "< 0.05"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        }
+    },
+    "IT12": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.53",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.36",
+            "p-Value": "< 0.05"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.34",
+            "p-Value": "< 0.01"
+        },
+        "China vs. Others": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.55",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.30",
+            "p-Value": "< 0.001"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.64",
+            "p-Value": "< 0.01"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.44",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.42",
+            "p-Value": "< 0.05"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        }
+    },
+    "IT13": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.43",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.38",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.45",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.60",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.35",
+            "p-Value": "< 0.01"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.38",
+            "p-Value": "< 0.01"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.44",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.59",
+            "p-Value": "--"
+        }
+    },
+    "IT14": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.40",
+            "p-Value": "< 0.05"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.20",
+            "p-Value": "< 0.001"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.30",
+            "p-Value": "< 0.001"
+        },
+        "China vs. Others": {
+            "Estimator": "0.55",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.24",
+            "p-Value": "< 0.001"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.64",
+            "p-Value": "< 0.01"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.39",
+            "p-Value": "< 0.05"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.42",
+            "p-Value": "--"
+        }
+    },
+    "IT15": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.43",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.31",
+            "p-Value": "< 0.001"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.37",
+            "p-Value": "< 0.05"
+        },
+        "China vs. Others": {
+            "Estimator": "0.53",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.58",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.24",
+            "p-Value": "< 0.001"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.65",
+            "p-Value": "< 0.001"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.39",
+            "p-Value": "< 0.05"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.43",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.56",
+            "p-Value": "--"
+        }
+    },
+    "IT16": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.42",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.23",
+            "p-Value": "< 0.001"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.31",
+            "p-Value": "< 0.001"
+        },
+        "China vs. Others": {
+            "Estimator": "0.59",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.59",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.25",
+            "p-Value": "< 0.001"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.69",
+            "p-Value": "< 0.001"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.44",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        }
+    },
+    "IT17": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.24",
+            "p-Value": "< 0.001"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.25",
+            "p-Value": "< 0.001"
+        },
+        "China vs. Others": {
+            "Estimator": "0.57",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.55",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.31",
+            "p-Value": "< 0.001"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.56",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.37",
+            "p-Value": "< 0.001"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        }
+    },
+    "IT18": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.54",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.28",
+            "p-Value": "< 0.001"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.24",
+            "p-Value": "< 0.001"
+        },
+        "China vs. Others": {
+            "Estimator": "0.55",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.53",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.27",
+            "p-Value": "< 0.001"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.59",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.36",
+            "p-Value": "< 0.001"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        }
+    },
+    "IT19": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.53",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.25",
+            "p-Value": "< 0.001"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.22",
+            "p-Value": "< 0.001"
+        },
+        "China vs. Others": {
+            "Estimator": "0.54",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.53",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.31",
+            "p-Value": "< 0.001"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.60",
+            "p-Value": "< 0.05"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.41",
+            "p-Value": "< 0.01"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        }
+    },
+    "IT2": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.40",
+            "p-Value": "< 0.05"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.56",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.43",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.55",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        }
+    },
+    "IT20": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.45",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.24",
+            "p-Value": "< 0.001"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.29",
+            "p-Value": "< 0.001"
+        },
+        "China vs. Others": {
+            "Estimator": "0.56",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.39",
+            "p-Value": "< 0.05"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.56",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.44",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        }
+    },
+    "IT21": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.31",
+            "p-Value": "< 0.001"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.31",
+            "p-Value": "< 0.01"
+        },
+        "China vs. Others": {
+            "Estimator": "0.55",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.39",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.60",
+            "p-Value": "< 0.05"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        }
+    },
+    "IT22": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.53",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.41",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.38",
+            "p-Value": "< 0.05"
+        },
+        "China vs. Others": {
+            "Estimator": "0.53",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.39",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.54",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.42",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.55",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.45",
+            "p-Value": "--"
+        }
+    },
+    "IT23": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.43",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.43",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.41",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.45",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.36",
+            "p-Value": "< 0.05"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.55",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        }
+    },
+    "IT24": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.45",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.38",
+            "p-Value": "< 0.05"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.43",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.63",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.64",
+            "p-Value": "--"
+        }
+    },
+    "IT25": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.37",
+            "p-Value": "< 0.01"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.39",
+            "p-Value": "< 0.05"
+        },
+        "China vs. Others": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.57",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.35",
+            "p-Value": "< 0.01"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.64",
+            "p-Value": "< 0.001"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.58",
+            "p-Value": "--"
+        }
+    },
+    "IT26": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        }
+    },
+    "IT3": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.42",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.41",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.53",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.54",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.39",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.54",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.43",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        }
+    },
+    "IT4": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        }
+    },
+    "IT5": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.33",
+            "p-Value": "< 0.01"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.34",
+            "p-Value": "< 0.05"
+        },
+        "China vs. Others": {
+            "Estimator": "0.54",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.57",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.29",
+            "p-Value": "< 0.001"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.67",
+            "p-Value": "< 0.001"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.42",
+            "p-Value": "< 0.05"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.54",
+            "p-Value": "--"
+        }
+    },
+    "IT6": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.45",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        }
+    },
+    "IT7": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.40",
+            "p-Value": "< 0.05"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.38",
+            "p-Value": "< 0.05"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.50",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.49",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.47",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.46",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        }
+    },
+    "IT8": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.43",
+            "p-Value": "< 0.05"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.37",
+            "p-Value": "< 0.05"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.44",
+            "p-Value": "--"
+        },
+        "China vs. Others": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.52",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.38",
+            "p-Value": "< 0.05"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.60",
+            "p-Value": "< 0.05"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.48",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        }
+    },
+    "IT9": {
+        "APINumM vs. APINumL": {
+            "Estimator": "0.45",
+            "p-Value": "--"
+        },
+        "APINumS vs. APINumL": {
+            "Estimator": "0.28",
+            "p-Value": "< 0.001"
+        },
+        "APINumS vs. APINumM": {
+            "Estimator": "0.33",
+            "p-Value": "< 0.01"
+        },
+        "China vs. Others": {
+            "Estimator": "0.51",
+            "p-Value": "--"
+        },
+        "China vs. USA": {
+            "Estimator": "0.58",
+            "p-Value": "--"
+        },
+        "ExpL vs. ExpH": {
+            "Estimator": "0.27",
+            "p-Value": "< 0.001"
+        },
+        "ExpL vs. ExpM": {
+            "Estimator": "0.57",
+            "p-Value": "--"
+        },
+        "ExpM vs. ExpH": {
+            "Estimator": "0.35",
+            "p-Value": "< 0.001"
+        },
+        "OSS vs. Industrial": {
+            "Estimator": "0.43",
+            "p-Value": "--"
+        },
+        "USA vs. Others": {
+            "Estimator": "0.57",
+            "p-Value": "--"
+        }
+    }
+}
